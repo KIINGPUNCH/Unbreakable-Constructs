@@ -9,4 +9,4 @@ Specific use cases of this mod:
 
  
 Limitations:
-This mod does not prevent other mods from manipulating the unbreakable blocks (such as Mine Mine no Mi devil fruit abilities converting other blocks to Ice, etc)
+This mod does not prevent other mods from manipulating the unbreakable blocks (such as Mine Mine no Mi devil fruit abilities converting other blocks to Ice, etc) HOWEVER, assembled ships with unbreakable constructs blocks are safe.
