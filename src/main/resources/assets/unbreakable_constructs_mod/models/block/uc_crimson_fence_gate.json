@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_fence_gate",
+  "textures": {
+    "texture": "unbreakable_constructs_mod:blocks/crimson_planks"
+  }
+}

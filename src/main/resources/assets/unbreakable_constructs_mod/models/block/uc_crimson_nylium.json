@@ -1,0 +1,10 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "unbreakable_constructs_mod:blocks/netherrack",
+    "top": "unbreakable_constructs_mod:blocks/crimson_nylium",
+    "side": "unbreakable_constructs_mod:blocks/crimson_nylium_side",
+    "overlay": "unbreakable_constructs_mod:blocks/crimson_nylium_side",
+    "particle": "unbreakable_constructs_mod:blocks/netherrack"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "unbreakable_constructs_mod:blocks/spruce_planks"
+  }
+}

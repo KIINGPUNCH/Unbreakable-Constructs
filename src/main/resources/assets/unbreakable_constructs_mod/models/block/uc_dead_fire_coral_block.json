@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/dead_fire_coral_block",
+    "up": "unbreakable_constructs_mod:blocks/dead_fire_coral_block",
+    "north": "unbreakable_constructs_mod:blocks/dead_fire_coral_block",
+    "east": "unbreakable_constructs_mod:blocks/dead_fire_coral_block",
+    "south": "unbreakable_constructs_mod:blocks/dead_fire_coral_block",
+    "west": "unbreakable_constructs_mod:blocks/dead_fire_coral_block",
+    "particle": "unbreakable_constructs_mod:blocks/dead_fire_coral_block"
+  }
+}

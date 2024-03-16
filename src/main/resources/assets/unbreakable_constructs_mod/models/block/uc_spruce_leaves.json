@@ -1,0 +1,7 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "unbreakable_constructs_mod:blocks/spruce_leaves",
+    "particle": "unbreakable_constructs_mod:blocks/spruce_leaves"
+  }
+}

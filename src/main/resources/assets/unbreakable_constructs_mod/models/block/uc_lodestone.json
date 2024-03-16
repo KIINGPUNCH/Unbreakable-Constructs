@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/lodestone_top",
+    "up": "unbreakable_constructs_mod:blocks/lodestone_top",
+    "north": "unbreakable_constructs_mod:blocks/lodestone_side",
+    "east": "unbreakable_constructs_mod:blocks/lodestone_side",
+    "south": "unbreakable_constructs_mod:blocks/lodestone_side",
+    "west": "unbreakable_constructs_mod:blocks/lodestone_side",
+    "particle": "unbreakable_constructs_mod:blocks/lodestone_top"
+  }
+}

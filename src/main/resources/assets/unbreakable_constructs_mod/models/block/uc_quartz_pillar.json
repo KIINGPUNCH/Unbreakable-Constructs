@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/quartz_pillar_top",
+    "up": "unbreakable_constructs_mod:blocks/quartz_pillar_top",
+    "north": "unbreakable_constructs_mod:blocks/quartz_pillar",
+    "east": "unbreakable_constructs_mod:blocks/quartz_pillar",
+    "south": "unbreakable_constructs_mod:blocks/quartz_pillar",
+    "west": "unbreakable_constructs_mod:blocks/quartz_pillar",
+    "particle": "unbreakable_constructs_mod:blocks/quartz_pillar_top"
+  }
+}

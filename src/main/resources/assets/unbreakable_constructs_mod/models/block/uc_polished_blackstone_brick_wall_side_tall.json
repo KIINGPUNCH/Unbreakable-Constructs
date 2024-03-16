@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "unbreakable_constructs_mod:blocks/polished_blackstone_bricks",
+    "particle": "unbreakable_constructs_mod:blocks/polished_blackstone_bricks"
+  }
+}

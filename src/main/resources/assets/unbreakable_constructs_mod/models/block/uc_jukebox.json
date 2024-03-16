@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/jukebox_side",
+    "up": "unbreakable_constructs_mod:blocks/jukebox_top",
+    "north": "unbreakable_constructs_mod:blocks/jukebox_side",
+    "east": "unbreakable_constructs_mod:blocks/jukebox_side",
+    "south": "unbreakable_constructs_mod:blocks/jukebox_side",
+    "west": "unbreakable_constructs_mod:blocks/jukebox_side",
+    "particle": "unbreakable_constructs_mod:blocks/jukebox_side"
+  }
+}

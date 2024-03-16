@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/brown_wool",
+    "up": "unbreakable_constructs_mod:blocks/brown_wool",
+    "north": "unbreakable_constructs_mod:blocks/brown_wool",
+    "east": "unbreakable_constructs_mod:blocks/brown_wool",
+    "south": "unbreakable_constructs_mod:blocks/brown_wool",
+    "west": "unbreakable_constructs_mod:blocks/brown_wool",
+    "particle": "unbreakable_constructs_mod:blocks/brown_wool"
+  }
+}

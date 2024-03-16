@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/gray_stained_glass",
+    "up": "unbreakable_constructs_mod:blocks/gray_concrete",
+    "north": "unbreakable_constructs_mod:blocks/gray_concrete",
+    "east": "unbreakable_constructs_mod:blocks/gray_concrete",
+    "south": "unbreakable_constructs_mod:blocks/gray_concrete",
+    "west": "unbreakable_constructs_mod:blocks/gray_concrete",
+    "particle": "unbreakable_constructs_mod:blocks/gray_stained_glass"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "unbreakable_constructs_mod:blocks/jungle_trapdoor",
+    "particle": "unbreakable_constructs_mod:blocks/jungle_trapdoor"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "unbreakable_constructs_mod:blocks/cut_red_sandstone",
+    "top": "unbreakable_constructs_mod:blocks/cut_red_sandstone",
+    "side": "unbreakable_constructs_mod:blocks/cut_red_sandstone"
+  }
+}

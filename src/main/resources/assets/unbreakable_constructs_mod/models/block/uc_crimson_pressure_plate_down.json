@@ -1,0 +1,6 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "texture": "unbreakable_constructs_mod:blocks/crimson_planks"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/respawn_anchor_bottom",
+    "up": "unbreakable_constructs_mod:blocks/respawn_anchor_top",
+    "north": "unbreakable_constructs_mod:blocks/respawn_anchor_side2",
+    "east": "unbreakable_constructs_mod:blocks/respawn_anchor_side2",
+    "south": "unbreakable_constructs_mod:blocks/respawn_anchor_side2",
+    "west": "unbreakable_constructs_mod:blocks/respawn_anchor_side2",
+    "particle": "unbreakable_constructs_mod:blocks/respawn_anchor_bottom"
+  }
+}

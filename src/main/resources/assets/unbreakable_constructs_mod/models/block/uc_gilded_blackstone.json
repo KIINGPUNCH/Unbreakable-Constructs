@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/gilded_blackstone",
+    "up": "unbreakable_constructs_mod:blocks/gilded_blackstone",
+    "north": "unbreakable_constructs_mod:blocks/gilded_blackstone",
+    "east": "unbreakable_constructs_mod:blocks/gilded_blackstone",
+    "south": "unbreakable_constructs_mod:blocks/gilded_blackstone",
+    "west": "unbreakable_constructs_mod:blocks/gilded_blackstone",
+    "particle": "unbreakable_constructs_mod:blocks/gilded_blackstone"
+  }
+}

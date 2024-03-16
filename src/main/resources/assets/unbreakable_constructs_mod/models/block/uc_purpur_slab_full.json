@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "unbreakable_constructs_mod:blocks/purpur_block",
+    "top": "unbreakable_constructs_mod:blocks/purpur_block",
+    "side": "unbreakable_constructs_mod:blocks/purpur_block"
+  }
+}

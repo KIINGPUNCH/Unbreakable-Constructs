@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/magenta_wool",
+    "up": "unbreakable_constructs_mod:blocks/magenta_wool",
+    "north": "unbreakable_constructs_mod:blocks/magenta_wool",
+    "east": "unbreakable_constructs_mod:blocks/magenta_wool",
+    "south": "unbreakable_constructs_mod:blocks/magenta_wool",
+    "west": "unbreakable_constructs_mod:blocks/magenta_wool",
+    "particle": "unbreakable_constructs_mod:blocks/magenta_wool"
+  }
+}

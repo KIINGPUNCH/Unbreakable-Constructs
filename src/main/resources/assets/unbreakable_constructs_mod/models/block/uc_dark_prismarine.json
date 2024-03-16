@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/dark_prismarine",
+    "up": "unbreakable_constructs_mod:blocks/dark_prismarine",
+    "north": "unbreakable_constructs_mod:blocks/dark_prismarine",
+    "east": "unbreakable_constructs_mod:blocks/dark_prismarine",
+    "south": "unbreakable_constructs_mod:blocks/dark_prismarine",
+    "west": "unbreakable_constructs_mod:blocks/dark_prismarine",
+    "particle": "unbreakable_constructs_mod:blocks/dark_prismarine"
+  }
+}

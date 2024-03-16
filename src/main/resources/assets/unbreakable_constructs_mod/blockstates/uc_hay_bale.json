@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "unbreakable_constructs_mod:block/uc_hay_bale"
+    },
+    "facing=east": {
+      "model": "unbreakable_constructs_mod:block/uc_hay_bale",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "unbreakable_constructs_mod:block/uc_hay_bale",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "unbreakable_constructs_mod:block/uc_hay_bale",
+      "y": 270
+    }
+  }
+}

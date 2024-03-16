@@ -1,0 +1,6 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "texture": "unbreakable_constructs_mod:blocks/acacia_planks"
+  }
+}

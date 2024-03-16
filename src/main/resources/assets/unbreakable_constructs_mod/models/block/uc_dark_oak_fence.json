@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "unbreakable_constructs_mod:blocks/dark_oak_planks",
+    "particle": "unbreakable_constructs_mod:blocks/dark_oak_planks"
+  }
+}

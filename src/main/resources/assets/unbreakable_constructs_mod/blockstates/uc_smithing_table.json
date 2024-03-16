@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "unbreakable_constructs_mod:block/uc_smithing_table"
+    },
+    "facing=east": {
+      "model": "unbreakable_constructs_mod:block/uc_smithing_table",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "unbreakable_constructs_mod:block/uc_smithing_table",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "unbreakable_constructs_mod:block/uc_smithing_table",
+      "y": 270
+    }
+  }
+}

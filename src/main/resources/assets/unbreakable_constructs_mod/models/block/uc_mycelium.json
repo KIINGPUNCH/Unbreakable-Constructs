@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/dirt",
+    "up": "unbreakable_constructs_mod:blocks/mycelium_top",
+    "north": "unbreakable_constructs_mod:blocks/mycelium_side",
+    "east": "unbreakable_constructs_mod:blocks/mycelium_side",
+    "south": "unbreakable_constructs_mod:blocks/mycelium_side",
+    "west": "unbreakable_constructs_mod:blocks/mycelium_side",
+    "particle": "unbreakable_constructs_mod:blocks/dirt"
+  }
+}

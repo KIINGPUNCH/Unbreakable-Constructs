@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/mushroom_block_inside",
+    "up": "unbreakable_constructs_mod:blocks/mushroom_stem",
+    "north": "unbreakable_constructs_mod:blocks/mushroom_stem",
+    "east": "unbreakable_constructs_mod:blocks/mushroom_stem",
+    "south": "unbreakable_constructs_mod:blocks/mushroom_stem",
+    "west": "unbreakable_constructs_mod:blocks/mushroom_stem",
+    "particle": "unbreakable_constructs_mod:blocks/mushroom_block_inside"
+  }
+}

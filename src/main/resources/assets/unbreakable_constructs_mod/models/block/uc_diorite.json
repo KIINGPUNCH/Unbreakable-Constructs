@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/diorite",
+    "up": "unbreakable_constructs_mod:blocks/diorite",
+    "north": "unbreakable_constructs_mod:blocks/diorite",
+    "east": "unbreakable_constructs_mod:blocks/diorite",
+    "south": "unbreakable_constructs_mod:blocks/diorite",
+    "west": "unbreakable_constructs_mod:blocks/diorite",
+    "particle": "unbreakable_constructs_mod:blocks/diorite"
+  }
+}

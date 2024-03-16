@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/black_shulker_box",
+    "up": "unbreakable_constructs_mod:blocks/black_shulker_box",
+    "north": "unbreakable_constructs_mod:blocks/black_shulker_box",
+    "east": "unbreakable_constructs_mod:blocks/black_shulker_box",
+    "south": "unbreakable_constructs_mod:blocks/black_shulker_box",
+    "west": "unbreakable_constructs_mod:blocks/black_shulker_box",
+    "particle": "unbreakable_constructs_mod:blocks/black_shulker_box"
+  }
+}

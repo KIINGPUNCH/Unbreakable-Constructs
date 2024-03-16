@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "unbreakable_constructs_mod:blocks/crimson_door_bottom",
+    "top": "unbreakable_constructs_mod:blocks/crimson_door_top"
+  }
+}

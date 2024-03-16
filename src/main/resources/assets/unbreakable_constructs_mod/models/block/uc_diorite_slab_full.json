@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "unbreakable_constructs_mod:blocks/diorite",
+    "top": "unbreakable_constructs_mod:blocks/diorite",
+    "side": "unbreakable_constructs_mod:blocks/diorite"
+  }
+}

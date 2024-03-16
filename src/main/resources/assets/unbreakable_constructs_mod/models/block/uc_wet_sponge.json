@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/wet_sponge",
+    "up": "unbreakable_constructs_mod:blocks/wet_sponge",
+    "north": "unbreakable_constructs_mod:blocks/wet_sponge",
+    "east": "unbreakable_constructs_mod:blocks/wet_sponge",
+    "south": "unbreakable_constructs_mod:blocks/wet_sponge",
+    "west": "unbreakable_constructs_mod:blocks/wet_sponge",
+    "particle": "unbreakable_constructs_mod:blocks/wet_sponge"
+  }
+}

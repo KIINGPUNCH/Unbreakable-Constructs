@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "unbreakable_constructs_mod:blocks/prismarine",
+    "top": "unbreakable_constructs_mod:blocks/prismarine",
+    "side": "unbreakable_constructs_mod:blocks/prismarine"
+  }
+}

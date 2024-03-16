@@ -1,0 +1,6 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "unbreakable_constructs_mod:blocks/oak_planks"
+  }
+}

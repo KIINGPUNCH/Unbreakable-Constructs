@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/light_gray_terracotta",
+    "up": "unbreakable_constructs_mod:blocks/light_gray_terracotta",
+    "north": "unbreakable_constructs_mod:blocks/light_gray_terracotta",
+    "east": "unbreakable_constructs_mod:blocks/light_gray_terracotta",
+    "south": "unbreakable_constructs_mod:blocks/light_gray_terracotta",
+    "west": "unbreakable_constructs_mod:blocks/light_gray_terracotta",
+    "particle": "unbreakable_constructs_mod:blocks/light_gray_terracotta"
+  }
+}

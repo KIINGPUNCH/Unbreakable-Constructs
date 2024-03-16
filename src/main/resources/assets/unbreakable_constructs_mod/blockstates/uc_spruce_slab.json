@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "unbreakable_constructs_mod:block/uc_spruce_slab"
+    },
+    "type=top": {
+      "model": "unbreakable_constructs_mod:block/uc_spruce_slab_top"
+    },
+    "type=double": {
+      "model": "unbreakable_constructs_mod:block/uc_spruce_slab_full"
+    }
+  }
+}

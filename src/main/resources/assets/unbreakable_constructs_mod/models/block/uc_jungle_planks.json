@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/jungle_planks",
+    "up": "unbreakable_constructs_mod:blocks/jungle_planks",
+    "north": "unbreakable_constructs_mod:blocks/jungle_planks",
+    "east": "unbreakable_constructs_mod:blocks/jungle_planks",
+    "south": "unbreakable_constructs_mod:blocks/jungle_planks",
+    "west": "unbreakable_constructs_mod:blocks/jungle_planks",
+    "particle": "unbreakable_constructs_mod:blocks/jungle_planks"
+  }
+}

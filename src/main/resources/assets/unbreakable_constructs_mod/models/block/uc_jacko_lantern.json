@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/pumpkin_top",
+    "up": "unbreakable_constructs_mod:blocks/pumpkin_top",
+    "north": "unbreakable_constructs_mod:blocks/jack_o_lantern",
+    "east": "unbreakable_constructs_mod:blocks/pumpkin_side",
+    "south": "unbreakable_constructs_mod:blocks/pumpkin_side",
+    "west": "unbreakable_constructs_mod:blocks/pumpkin_side",
+    "particle": "unbreakable_constructs_mod:blocks/pumpkin_top"
+  }
+}

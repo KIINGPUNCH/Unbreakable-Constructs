@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/terracotta",
+    "up": "unbreakable_constructs_mod:blocks/terracotta",
+    "north": "unbreakable_constructs_mod:blocks/terracotta",
+    "east": "unbreakable_constructs_mod:blocks/terracotta",
+    "south": "unbreakable_constructs_mod:blocks/terracotta",
+    "west": "unbreakable_constructs_mod:blocks/terracotta",
+    "particle": "unbreakable_constructs_mod:blocks/terracotta"
+  }
+}

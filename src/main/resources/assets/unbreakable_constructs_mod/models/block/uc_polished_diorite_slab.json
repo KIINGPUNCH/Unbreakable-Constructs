@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "unbreakable_constructs_mod:blocks/polished_diorite",
+    "top": "unbreakable_constructs_mod:blocks/polished_diorite",
+    "side": "unbreakable_constructs_mod:blocks/polished_diorite"
+  }
+}

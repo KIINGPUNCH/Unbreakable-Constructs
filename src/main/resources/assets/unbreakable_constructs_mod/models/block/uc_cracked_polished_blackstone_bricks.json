@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/cracked_polished_blackstone_bricks",
+    "up": "unbreakable_constructs_mod:blocks/cracked_polished_blackstone_bricks",
+    "north": "unbreakable_constructs_mod:blocks/cracked_polished_blackstone_bricks",
+    "east": "unbreakable_constructs_mod:blocks/cracked_polished_blackstone_bricks",
+    "south": "unbreakable_constructs_mod:blocks/cracked_polished_blackstone_bricks",
+    "west": "unbreakable_constructs_mod:blocks/cracked_polished_blackstone_bricks",
+    "particle": "unbreakable_constructs_mod:blocks/cracked_polished_blackstone_bricks"
+  }
+}

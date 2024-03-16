@@ -1,0 +1,4451 @@
+{
+  "mod_elements": [
+    {
+      "name": "UCStone",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_stone"
+    },
+    {
+      "name": "UCGranite",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_granite"
+    },
+    {
+      "name": "UCPolishedGranite",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_polished_granite"
+    },
+    {
+      "name": "UCDiorite",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_diorite"
+    },
+    {
+      "name": "UCPolishedDiorite",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_polished_diorite"
+    },
+    {
+      "name": "UCAndesite",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_andesite"
+    },
+    {
+      "name": "UCPolishedAndesite",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_polished_andesite"
+    },
+    {
+      "name": "UCGrassBlock",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_grass_block"
+    },
+    {
+      "name": "UCDirt",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dirt"
+    },
+    {
+      "name": "UCCoarseDirt",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_coarse_dirt"
+    },
+    {
+      "name": "UCPodzol",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_podzol"
+    },
+    {
+      "name": "UCCrimsonNylium",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_crimson_nylium"
+    },
+    {
+      "name": "UCWarpedNylium",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_warped_nylium"
+    },
+    {
+      "name": "UCCobblestone",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_cobblestone"
+    },
+    {
+      "name": "UCOakPlanks",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_oak_planks"
+    },
+    {
+      "name": "UCSprucePlanks",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_spruce_planks"
+    },
+    {
+      "name": "UCBirchPlanks",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_birch_planks"
+    },
+    {
+      "name": "UCJunglePlanks",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_jungle_planks"
+    },
+    {
+      "name": "UCAcaciaPlanks",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_acacia_planks"
+    },
+    {
+      "name": "UCDarkOakPlanks",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dark_oak_planks"
+    },
+    {
+      "name": "UCCrimsonPlanks",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_crimson_planks"
+    },
+    {
+      "name": "UCWarpedPlanks",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_warped_planks"
+    },
+    {
+      "name": "UCSand",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_sand"
+    },
+    {
+      "name": "UCRedSand",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_red_sand"
+    },
+    {
+      "name": "UCGravel",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_gravel"
+    },
+    {
+      "name": "UCGoldOre",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_gold_ore"
+    },
+    {
+      "name": "UCIronOre",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_iron_ore"
+    },
+    {
+      "name": "UCCoalOre",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_coal_ore"
+    },
+    {
+      "name": "UCNetherGoldOre",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_nether_gold_ore"
+    },
+    {
+      "name": "UCOakLog",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_oak_log"
+    },
+    {
+      "name": "UCSpruceLog",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_spruce_log"
+    },
+    {
+      "name": "UCBirchLog",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_birch_log"
+    },
+    {
+      "name": "UCJungleLog",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_jungle_log"
+    },
+    {
+      "name": "UCAcaciaLog",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_acacia_log"
+    },
+    {
+      "name": "UCDarkOakLog",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dark_oak_log"
+    },
+    {
+      "name": "UCCrimsonStem",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_crimson_stem"
+    },
+    {
+      "name": "UCWarpedStem",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_warped_stem"
+    },
+    {
+      "name": "UCStrippedOakLog",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_stripped_oak_log"
+    },
+    {
+      "name": "UCStrippedSpruceLog",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_stripped_spruce_log"
+    },
+    {
+      "name": "UCStrippedBirchLog",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_stripped_birch_log"
+    },
+    {
+      "name": "UCStrippedJungleLog",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_stripped_jungle_log"
+    },
+    {
+      "name": "UCStrippedAcaciaLog",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_stripped_acacia_log"
+    },
+    {
+      "name": "UCStrippedDarkOakLog",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_stripped_dark_oak_log"
+    },
+    {
+      "name": "UCStrippedCrimsonStem",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_stripped_crimson_stem"
+    },
+    {
+      "name": "UCStrippedWarpedStem",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_stripped_warped_stem"
+    },
+    {
+      "name": "UCSponge",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_sponge"
+    },
+    {
+      "name": "UCWetSponge",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_wet_sponge"
+    },
+    {
+      "name": "UCGlass",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_glass"
+    },
+    {
+      "name": "UCLapisLazuliOre",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_lapis_lazuli_ore"
+    },
+    {
+      "name": "UCLapisLazuliBlock",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_lapis_lazuli_block"
+    },
+    {
+      "name": "UCSandstone",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_sandstone"
+    },
+    {
+      "name": "UCChiseledSandstone",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_chiseled_sandstone"
+    },
+    {
+      "name": "UCCutSandstone",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_cut_sandstone"
+    },
+    {
+      "name": "UCWhiteWool",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_white_wool"
+    },
+    {
+      "name": "UCOrangeWool",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_orange_wool"
+    },
+    {
+      "name": "UCMagentaWool",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_magenta_wool"
+    },
+    {
+      "name": "UCLightBlueWool",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_light_blue_wool"
+    },
+    {
+      "name": "UCYellowWool",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_yellow_wool"
+    },
+    {
+      "name": "UCLimeWool",
+      "type": "block",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_lime_wool"
+    },
+    {
+      "name": "UCPinkWool",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_pink_wool"
+    },
+    {
+      "name": "UCGrayWool",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_gray_wool"
+    },
+    {
+      "name": "UCLightGrayWool",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_light_gray_wool"
+    },
+    {
+      "name": "UCCyanWool",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_cyan_wool"
+    },
+    {
+      "name": "UCPurpleWool",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_purple_wool"
+    },
+    {
+      "name": "UCBlueWool",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_blue_wool"
+    },
+    {
+      "name": "UCBrownWool",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_brown_wool"
+    },
+    {
+      "name": "UCGreenWool",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_green_wool"
+    },
+    {
+      "name": "UCRedWool",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_red_wool"
+    },
+    {
+      "name": "UCBlackWool",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_black_wool"
+    },
+    {
+      "name": "UCBlockofGold",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_blockof_gold"
+    },
+    {
+      "name": "UCBlockofIron",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_blockof_iron"
+    },
+    {
+      "name": "UCOakSlab",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_oak_slab"
+    },
+    {
+      "name": "UCSpruceSlab",
+      "type": "block",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_spruce_slab"
+    },
+    {
+      "name": "UCBirchSlab",
+      "type": "block",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_birch_slab"
+    },
+    {
+      "name": "UCJungleSlab",
+      "type": "block",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_jungle_slab"
+    },
+    {
+      "name": "UCAcaciaSlab",
+      "type": "block",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_acacia_slab"
+    },
+    {
+      "name": "UCDarkOakSlab",
+      "type": "block",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dark_oak_slab"
+    },
+    {
+      "name": "UCCrimsonSlab",
+      "type": "block",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_crimson_slab"
+    },
+    {
+      "name": "UCWarpedSlab",
+      "type": "block",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_warped_slab"
+    },
+    {
+      "name": "UCStoneSlab",
+      "type": "block",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_stone_slab"
+    },
+    {
+      "name": "UCSmoothStoneSlab",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_smooth_stone_slab"
+    },
+    {
+      "name": "UCSandstoneSlab",
+      "type": "block",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_sandstone_slab"
+    },
+    {
+      "name": "UCCutSandstoneSlab",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_cut_sandstone_slab"
+    },
+    {
+      "name": "UCCobblestoneSlab",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_cobblestone_slab"
+    },
+    {
+      "name": "UCBrickSlab",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_brick_slab"
+    },
+    {
+      "name": "UCStoneBrickSlab",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_stone_brick_slab"
+    },
+    {
+      "name": "UCNetherBrickSlab",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_nether_brick_slab"
+    },
+    {
+      "name": "UCQuartzSlab",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_quartz_slab"
+    },
+    {
+      "name": "UCRedSandstoneSlab",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_red_sandstone_slab"
+    },
+    {
+      "name": "UCCutRedSandstoneSlab",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_cut_red_sandstone_slab"
+    },
+    {
+      "name": "UCPurpurSlab",
+      "type": "block",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_purpur_slab"
+    },
+    {
+      "name": "UCPrismarineSlab",
+      "type": "block",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_prismarine_slab"
+    },
+    {
+      "name": "UCPrismarineBrickSlab",
+      "type": "block",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_prismarine_brick_slab"
+    },
+    {
+      "name": "UCDarkPrismarineSlab",
+      "type": "block",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dark_prismarine_slab"
+    },
+    {
+      "name": "UCSmoothStone",
+      "type": "block",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_smooth_stone"
+    },
+    {
+      "name": "UCBricks",
+      "type": "block",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_bricks"
+    },
+    {
+      "name": "UCBookshelf",
+      "type": "block",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_bookshelf"
+    },
+    {
+      "name": "UCMossyCobblestone",
+      "type": "block",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_mossy_cobblestone"
+    },
+    {
+      "name": "UCObsidian",
+      "type": "block",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_obsidian"
+    },
+    {
+      "name": "UCPurpurBlock",
+      "type": "block",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_purpur_block"
+    },
+    {
+      "name": "UCPurpurPillar",
+      "type": "block",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_purpur_pillar"
+    },
+    {
+      "name": "UCPurpurStairs",
+      "type": "block",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_purpur_stairs"
+    },
+    {
+      "name": "UCOakStairs",
+      "type": "block",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_oak_stairs"
+    },
+    {
+      "name": "UCDiamondOre",
+      "type": "block",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_diamond_ore"
+    },
+    {
+      "name": "UCBlockOfDiamond",
+      "type": "block",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_block_of_diamond"
+    },
+    {
+      "name": "UCCobblestoneStairs",
+      "type": "block",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_cobblestone_stairs"
+    },
+    {
+      "name": "UCRedstoneOre",
+      "type": "block",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_redstone_ore"
+    },
+    {
+      "name": "UCIce",
+      "type": "block",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_ice"
+    },
+    {
+      "name": "UCSnow",
+      "type": "block",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_snow"
+    },
+    {
+      "name": "UCClay",
+      "type": "block",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_clay"
+    },
+    {
+      "name": "UCPumpkin",
+      "type": "block",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_pumpkin"
+    },
+    {
+      "name": "UCCarvedPumpkin",
+      "type": "block",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_carved_pumpkin"
+    },
+    {
+      "name": "UCNetherrack",
+      "type": "block",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_netherrack"
+    },
+    {
+      "name": "UCSoulSand",
+      "type": "block",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_soul_sand"
+    },
+    {
+      "name": "UCSoulSoil",
+      "type": "block",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_soul_soil"
+    },
+    {
+      "name": "UCBasalt",
+      "type": "block",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_basalt"
+    },
+    {
+      "name": "UCPolishedBasalt",
+      "type": "block",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_polished_basalt"
+    },
+    {
+      "name": "UCGlowstone",
+      "type": "block",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_glowstone"
+    },
+    {
+      "name": "UCJackoLantern",
+      "type": "block",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_jacko_lantern"
+    },
+    {
+      "name": "UCStoneBricks",
+      "type": "block",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_stone_bricks"
+    },
+    {
+      "name": "UCMossyStoneBricks",
+      "type": "block",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_mossy_stone_bricks"
+    },
+    {
+      "name": "UCCrackedStoneBricks",
+      "type": "block",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_cracked_stone_bricks"
+    },
+    {
+      "name": "UCChiseledStoneBricks",
+      "type": "block",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_chiseled_stone_bricks"
+    },
+    {
+      "name": "UCMelon",
+      "type": "block",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_melon"
+    },
+    {
+      "name": "UCBrickStairs",
+      "type": "block",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_brick_stairs"
+    },
+    {
+      "name": "UCStoneBrickStairs",
+      "type": "block",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_stone_brick_stairs"
+    },
+    {
+      "name": "UCMycelium",
+      "type": "block",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_mycelium"
+    },
+    {
+      "name": "UCNetherBricks",
+      "type": "block",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_nether_bricks"
+    },
+    {
+      "name": "UCChiseledNetherBricks",
+      "type": "block",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_chiseled_nether_bricks"
+    },
+    {
+      "name": "UCNetherBrickStairs",
+      "type": "block",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_nether_brick_stairs"
+    },
+    {
+      "name": "UCEndStone",
+      "type": "block",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_end_stone"
+    },
+    {
+      "name": "UCEndStoneBricks",
+      "type": "block",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_end_stone_bricks"
+    },
+    {
+      "name": "UCSandstoneStairs",
+      "type": "block",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_sandstone_stairs"
+    },
+    {
+      "name": "UCEmeraldOre",
+      "type": "block",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_emerald_ore"
+    },
+    {
+      "name": "UCBlockOfEmerald",
+      "type": "block",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_block_of_emerald"
+    },
+    {
+      "name": "UCSpruceStairs",
+      "type": "block",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_spruce_stairs"
+    },
+    {
+      "name": "UCBirchStairs",
+      "type": "block",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_birch_stairs"
+    },
+    {
+      "name": "UCJungleStairs",
+      "type": "block",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_jungle_stairs"
+    },
+    {
+      "name": "UCCrimsonStairs",
+      "type": "block",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_crimson_stairs"
+    },
+    {
+      "name": "UCWarpedStairs",
+      "type": "block",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_warped_stairs"
+    },
+    {
+      "name": "UCNetherQuartzOre",
+      "type": "block",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_nether_quartz_ore"
+    },
+    {
+      "name": "ChiseledQuartzBlock",
+      "type": "block",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chiseled_quartz_block"
+    },
+    {
+      "name": "UCBlockOfQuartz",
+      "type": "block",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_block_of_quartz"
+    },
+    {
+      "name": "UCQuartzBricks",
+      "type": "block",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_quartz_bricks"
+    },
+    {
+      "name": "UCQuartzPillar",
+      "type": "block",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_quartz_pillar"
+    },
+    {
+      "name": "UCQuartzStairs",
+      "type": "block",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_quartz_stairs"
+    },
+    {
+      "name": "UCWhiteTerracotta",
+      "type": "block",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_white_terracotta"
+    },
+    {
+      "name": "UCOrangeTerracotta",
+      "type": "block",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_orange_terracotta"
+    },
+    {
+      "name": "UCMagentaTerracotta",
+      "type": "block",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_magenta_terracotta"
+    },
+    {
+      "name": "UCLightBlueTerracotta",
+      "type": "block",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_light_blue_terracotta"
+    },
+    {
+      "name": "UCYellowTerracotta",
+      "type": "block",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_yellow_terracotta"
+    },
+    {
+      "name": "UCLimeTerracotta",
+      "type": "block",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_lime_terracotta"
+    },
+    {
+      "name": "UCPinkTerracotta",
+      "type": "block",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_pink_terracotta"
+    },
+    {
+      "name": "UCGrayTerracotta",
+      "type": "block",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_gray_terracotta"
+    },
+    {
+      "name": "UCLightGrayTerracotta",
+      "type": "block",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_light_gray_terracotta"
+    },
+    {
+      "name": "UCCyanTerracotta",
+      "type": "block",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_cyan_terracotta"
+    },
+    {
+      "name": "UCPurpleTerracotta",
+      "type": "block",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_purple_terracotta"
+    },
+    {
+      "name": "UCBlueTerracotta",
+      "type": "block",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_blue_terracotta"
+    },
+    {
+      "name": "UCBrownTerracotta",
+      "type": "block",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_brown_terracotta"
+    },
+    {
+      "name": "UCGreenTerracotta",
+      "type": "block",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_green_terracotta"
+    },
+    {
+      "name": "UCRedTerracotta",
+      "type": "block",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_red_terracotta"
+    },
+    {
+      "name": "UCBlackTerracotta",
+      "type": "block",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_black_terracotta"
+    },
+    {
+      "name": "UCHayBale",
+      "type": "block",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_hay_bale"
+    },
+    {
+      "name": "UCTerracotta",
+      "type": "block",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_terracotta"
+    },
+    {
+      "name": "UCBlockOfCoal",
+      "type": "block",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_block_of_coal"
+    },
+    {
+      "name": "UCPackedIce",
+      "type": "block",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_packed_ice"
+    },
+    {
+      "name": "UCWhiteStainedGlass",
+      "type": "block",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_white_stained_glass"
+    },
+    {
+      "name": "UCOrangeStainedGlass",
+      "type": "block",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_orange_stained_glass"
+    },
+    {
+      "name": "UCMagentaStainedGlass",
+      "type": "block",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_magenta_stained_glass"
+    },
+    {
+      "name": "UCLightBlueStainedGlass",
+      "type": "block",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_light_blue_stained_glass"
+    },
+    {
+      "name": "UCYellowStainedGlass",
+      "type": "block",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_yellow_stained_glass"
+    },
+    {
+      "name": "UCLimeStainedGlass",
+      "type": "block",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_lime_stained_glass"
+    },
+    {
+      "name": "UCPinkStainedGlass",
+      "type": "block",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_pink_stained_glass"
+    },
+    {
+      "name": "UCGrayStainedGlass",
+      "type": "block",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_gray_stained_glass"
+    },
+    {
+      "name": "UCLightGrayStainedGlass",
+      "type": "block",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_light_gray_stained_glass"
+    },
+    {
+      "name": "UCCyanStainedGlass",
+      "type": "block",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_cyan_stained_glass"
+    },
+    {
+      "name": "UCPurpleStainedGlass",
+      "type": "block",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_purple_stained_glass"
+    },
+    {
+      "name": "UCBlueStainedGlass",
+      "type": "block",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_blue_stained_glass"
+    },
+    {
+      "name": "UCBrownStainedGlass",
+      "type": "block",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_brown_stained_glass"
+    },
+    {
+      "name": "UCGreenStainedGlass",
+      "type": "block",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_green_stained_glass"
+    },
+    {
+      "name": "UCRedStainedGlass",
+      "type": "block",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_red_stained_glass"
+    },
+    {
+      "name": "UCBlackStainedGlass",
+      "type": "block",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_black_stained_glass"
+    },
+    {
+      "name": "UCPrismarine",
+      "type": "block",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_prismarine"
+    },
+    {
+      "name": "UCPrismarineBricks",
+      "type": "block",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_prismarine_bricks"
+    },
+    {
+      "name": "UCDarkPrismarine",
+      "type": "block",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dark_prismarine"
+    },
+    {
+      "name": "UCPrismarineStairs",
+      "type": "block",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_prismarine_stairs"
+    },
+    {
+      "name": "UCPrismarineBrickStairs",
+      "type": "block",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_prismarine_brick_stairs"
+    },
+    {
+      "name": "UCDarkPrismarineStairs",
+      "type": "block",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dark_prismarine_stairs"
+    },
+    {
+      "name": "UCSeaLantern",
+      "type": "block",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_sea_lantern"
+    },
+    {
+      "name": "UCRedSandstone",
+      "type": "block",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_red_sandstone"
+    },
+    {
+      "name": "UCChiseledRedSandstone",
+      "type": "block",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_chiseled_red_sandstone"
+    },
+    {
+      "name": "UCCutRedSandstone",
+      "type": "block",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_cut_red_sandstone"
+    },
+    {
+      "name": "UCRedSandstoneStairs",
+      "type": "block",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_red_sandstone_stairs"
+    },
+    {
+      "name": "UCMagmaBlock",
+      "type": "block",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_magma_block"
+    },
+    {
+      "name": "UCNetherWartBlock",
+      "type": "block",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_nether_wart_block"
+    },
+    {
+      "name": "UCWarpedWartBlock",
+      "type": "block",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_warped_wart_block"
+    },
+    {
+      "name": "UCRedNetherBricks",
+      "type": "block",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_red_nether_bricks"
+    },
+    {
+      "name": "UCBoneBlock",
+      "type": "block",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_bone_block"
+    },
+    {
+      "name": "UCWhiteConcrete",
+      "type": "block",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_white_concrete"
+    },
+    {
+      "name": "UCOrangeConcrete",
+      "type": "block",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_orange_concrete"
+    },
+    {
+      "name": "UCMagentaConcrete",
+      "type": "block",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_magenta_concrete"
+    },
+    {
+      "name": "UCLightBlueConcrete",
+      "type": "block",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_light_blue_concrete"
+    },
+    {
+      "name": "UCYellowConcrete",
+      "type": "block",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_yellow_concrete"
+    },
+    {
+      "name": "UCLimeConcrete",
+      "type": "block",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_lime_concrete"
+    },
+    {
+      "name": "UCPinkConcrete",
+      "type": "block",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_pink_concrete"
+    },
+    {
+      "name": "UCGrayConcrete",
+      "type": "block",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_gray_concrete"
+    },
+    {
+      "name": "UCLightGrayConcrete",
+      "type": "block",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_light_gray_concrete"
+    },
+    {
+      "name": "UCCyanConcrete",
+      "type": "block",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_cyan_concrete"
+    },
+    {
+      "name": "UCPurpleConcrete",
+      "type": "block",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_purple_concrete"
+    },
+    {
+      "name": "UCBlueConcrete",
+      "type": "block",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_blue_concrete"
+    },
+    {
+      "name": "UCBrownConcrete",
+      "type": "block",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_brown_concrete"
+    },
+    {
+      "name": "UCGreenConcrete",
+      "type": "block",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_green_concrete"
+    },
+    {
+      "name": "UCRedConcrete",
+      "type": "block",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_red_concrete"
+    },
+    {
+      "name": "UCBlackConcrete",
+      "type": "block",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_black_concrete"
+    },
+    {
+      "name": "UCWhiteConcretePowder",
+      "type": "block",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_white_concrete_powder"
+    },
+    {
+      "name": "UCOrangeConcretePowder",
+      "type": "block",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_orange_concrete_powder"
+    },
+    {
+      "name": "UCMagentaConcretePowder",
+      "type": "block",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_magenta_concrete_powder"
+    },
+    {
+      "name": "UCLightBlueConcretePowder",
+      "type": "block",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_light_blue_concrete_powder"
+    },
+    {
+      "name": "UCYellowConcretePowder",
+      "type": "block",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_yellow_concrete_powder"
+    },
+    {
+      "name": "UCLimeConcretePowder",
+      "type": "block",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_lime_concrete_powder"
+    },
+    {
+      "name": "UCPinkConcretePowder",
+      "type": "block",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_pink_concrete_powder"
+    },
+    {
+      "name": "UCGrayConcretePowder",
+      "type": "block",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_gray_concrete_powder"
+    },
+    {
+      "name": "UCLightGrayConcretePowder",
+      "type": "block",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_light_gray_concrete_powder"
+    },
+    {
+      "name": "UCCyanConcretePowder",
+      "type": "block",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_cyan_concrete_powder"
+    },
+    {
+      "name": "UCPurpleConcretePowder",
+      "type": "block",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_purple_concrete_powder"
+    },
+    {
+      "name": "UCBlueConcretePowder",
+      "type": "block",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_blue_concrete_powder"
+    },
+    {
+      "name": "UCBrownConcretePowder",
+      "type": "block",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_brown_concrete_powder"
+    },
+    {
+      "name": "UCGreenConcretePowder",
+      "type": "block",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_green_concrete_powder"
+    },
+    {
+      "name": "UCRedConcretePowder",
+      "type": "block",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_red_concrete_powder"
+    },
+    {
+      "name": "UCBlackConcretePowder",
+      "type": "block",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_black_concrete_powder"
+    },
+    {
+      "name": "UCDeadTubeCoralBlock",
+      "type": "block",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dead_tube_coral_block"
+    },
+    {
+      "name": "UCDeadBrainCoralBlock",
+      "type": "block",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dead_brain_coral_block"
+    },
+    {
+      "name": "UCDeadBubbleCoralBlock",
+      "type": "block",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dead_bubble_coral_block"
+    },
+    {
+      "name": "UCDeadFireCoralBlock",
+      "type": "block",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dead_fire_coral_block"
+    },
+    {
+      "name": "UCDeadHornCoralBlock",
+      "type": "block",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dead_horn_coral_block"
+    },
+    {
+      "name": "UCTubeCoralBlock",
+      "type": "block",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_tube_coral_block"
+    },
+    {
+      "name": "UCBrainCoralBlock",
+      "type": "block",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_brain_coral_block"
+    },
+    {
+      "name": "UCBubbleCoralBlock",
+      "type": "block",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_bubble_coral_block"
+    },
+    {
+      "name": "UCFireCoralBlock",
+      "type": "block",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_fire_coral_block"
+    },
+    {
+      "name": "UCHornCoralBlock",
+      "type": "block",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_horn_coral_block"
+    },
+    {
+      "name": "UCBlueIce",
+      "type": "block",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_blue_ice"
+    },
+    {
+      "name": "UCAcaciaStairs",
+      "type": "block",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_acacia_stairs"
+    },
+    {
+      "name": "UCDarkOakStairs",
+      "type": "block",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dark_oak_stairs"
+    },
+    {
+      "name": "UCPolishedGraniteStairs",
+      "type": "block",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_polished_granite_stairs"
+    },
+    {
+      "name": "UCSmoothRedSandstoneStairs",
+      "type": "block",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_smooth_red_sandstone_stairs"
+    },
+    {
+      "name": "UCMossyCobblestoneStairs",
+      "type": "block",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_mossy_cobblestone_stairs"
+    },
+    {
+      "name": "UCEndStoneBrickStairs",
+      "type": "block",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_end_stone_brick_stairs"
+    },
+    {
+      "name": "UCStoneStairs",
+      "type": "block",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_stone_stairs"
+    },
+    {
+      "name": "UCSmoothSandstoneStairs",
+      "type": "block",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_smooth_sandstone_stairs"
+    },
+    {
+      "name": "UCSmoothQuartzStairs",
+      "type": "block",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_smooth_quartz_stairs"
+    },
+    {
+      "name": "UCGraniteStairs",
+      "type": "block",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_granite_stairs"
+    },
+    {
+      "name": "UCAndesiteStairs",
+      "type": "block",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_andesite_stairs"
+    },
+    {
+      "name": "UCRedNetherBrickStairs",
+      "type": "block",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_red_nether_brick_stairs"
+    },
+    {
+      "name": "UCPolishedAndesiteStairs",
+      "type": "block",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_polished_andesite_stairs"
+    },
+    {
+      "name": "UCDioriteStairs",
+      "type": "block",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_diorite_stairs"
+    },
+    {
+      "name": "UCPolishedGraniteSlab",
+      "type": "block",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_polished_granite_slab"
+    },
+    {
+      "name": "UCSmoothRedSandstoneSlab",
+      "type": "block",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_smooth_red_sandstone_slab"
+    },
+    {
+      "name": "UCMossyStoneBrickSlab",
+      "type": "block",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_mossy_stone_brick_slab"
+    },
+    {
+      "name": "UCPolishedDioriteSlab",
+      "type": "block",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_polished_diorite_slab"
+    },
+    {
+      "name": "UCMossyCobblestoneSlab",
+      "type": "block",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_mossy_cobblestone_slab"
+    },
+    {
+      "name": "UCEndStoneBrickSlab",
+      "type": "block",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_end_stone_brick_slab"
+    },
+    {
+      "name": "UCSmoothSandstoneSlab",
+      "type": "block",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_smooth_sandstone_slab"
+    },
+    {
+      "name": "UCSmoothQuartzSlab",
+      "type": "block",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_smooth_quartz_slab"
+    },
+    {
+      "name": "UCGraniteSlab",
+      "type": "block",
+      "sortid": 264,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_granite_slab"
+    },
+    {
+      "name": "UCAndesiteSlab",
+      "type": "block",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_andesite_slab"
+    },
+    {
+      "name": "UCRedNetherBrickSlab",
+      "type": "block",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_red_nether_brick_slab"
+    },
+    {
+      "name": "UCPolishedAndesiteSlab",
+      "type": "block",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_polished_andesite_slab"
+    },
+    {
+      "name": "UCDioriteSlab",
+      "type": "block",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_diorite_slab"
+    },
+    {
+      "name": "UCDriedKelpBlock",
+      "type": "block",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dried_kelp_block"
+    },
+    {
+      "name": "UCBlockOfNetherite",
+      "type": "block",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_block_of_netherite"
+    },
+    {
+      "name": "UCAncientDebris",
+      "type": "block",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_ancient_debris"
+    },
+    {
+      "name": "UCCryingObsidian",
+      "type": "block",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_crying_obsidian"
+    },
+    {
+      "name": "UCBlackstone",
+      "type": "block",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_blackstone"
+    },
+    {
+      "name": "UCBlackstoneSlab",
+      "type": "block",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_blackstone_slab"
+    },
+    {
+      "name": "UCBlackstoneStairs",
+      "type": "block",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_blackstone_stairs"
+    },
+    {
+      "name": "UCPolishedBlackstone",
+      "type": "block",
+      "sortid": 277,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_polished_blackstone"
+    },
+    {
+      "name": "UCPolishedBlackstoneSlab",
+      "type": "block",
+      "sortid": 278,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_polished_blackstone_slab"
+    },
+    {
+      "name": "UCPolishedBlackstoneStairs",
+      "type": "block",
+      "sortid": 279,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_polished_blackstone_stairs"
+    },
+    {
+      "name": "UCChiseledPolishedBlackstone",
+      "type": "block",
+      "sortid": 280,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_chiseled_polished_blackstone"
+    },
+    {
+      "name": "UCPolishedBlackstoneBricks",
+      "type": "block",
+      "sortid": 281,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_polished_blackstone_bricks"
+    },
+    {
+      "name": "UCGildedBlackstone",
+      "type": "block",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_gilded_blackstone"
+    },
+    {
+      "name": "UCPolishedBlackstoneBrickSlab",
+      "type": "block",
+      "sortid": 282,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_polished_blackstone_brick_slab"
+    },
+    {
+      "name": "UCPolishedBlackstoneBrickStairs",
+      "type": "block",
+      "sortid": 283,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_polished_blackstone_brick_stairs"
+    },
+    {
+      "name": "UCCrackedPolishedBlackstoneBricks",
+      "type": "block",
+      "sortid": 284,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_cracked_polished_blackstone_bricks"
+    },
+    {
+      "name": "UCOakLeaves",
+      "type": "block",
+      "sortid": 285,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_oak_leaves"
+    },
+    {
+      "name": "UCSpruceLeaves",
+      "type": "block",
+      "sortid": 286,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_spruce_leaves"
+    },
+    {
+      "name": "UCBirchLeaves",
+      "type": "block",
+      "sortid": 287,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_birch_leaves"
+    },
+    {
+      "name": "UCJungleLeaves",
+      "type": "block",
+      "sortid": 288,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_jungle_leaves"
+    },
+    {
+      "name": "UCAcaciaLeaves",
+      "type": "block",
+      "sortid": 289,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_acacia_leaves"
+    },
+    {
+      "name": "UCDarkOakLeaves",
+      "type": "block",
+      "sortid": 290,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dark_oak_leaves"
+    },
+    {
+      "name": "UCCraftingTable",
+      "type": "block",
+      "sortid": 291,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_crafting_table"
+    },
+    {
+      "name": "UCLitFurnace",
+      "type": "block",
+      "sortid": 292,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_lit_furnace"
+    },
+    {
+      "name": "UCFurnace",
+      "type": "block",
+      "sortid": 293,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_furnace"
+    },
+    {
+      "name": "UCJukebox",
+      "type": "block",
+      "sortid": 294,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_jukebox"
+    },
+    {
+      "name": "UCOakFence",
+      "type": "block",
+      "sortid": 295,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_oak_fence"
+    },
+    {
+      "name": "UCSpruceFence",
+      "type": "block",
+      "sortid": 296,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_spruce_fence"
+    },
+    {
+      "name": "UCBirchFence",
+      "type": "block",
+      "sortid": 297,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_birch_fence"
+    },
+    {
+      "name": "UCJungleFence",
+      "type": "block",
+      "sortid": 298,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_jungle_fence"
+    },
+    {
+      "name": "UCAcaciaFence",
+      "type": "block",
+      "sortid": 299,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_acacia_fence"
+    },
+    {
+      "name": "UCDarkOakFence",
+      "type": "block",
+      "sortid": 300,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dark_oak_fence"
+    },
+    {
+      "name": "UCCrimsonFence",
+      "type": "block",
+      "sortid": 301,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_crimson_fence"
+    },
+    {
+      "name": "UCWarpedFence",
+      "type": "block",
+      "sortid": 302,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_warped_fence"
+    },
+    {
+      "name": "UCBrownMushroomBlock",
+      "type": "block",
+      "sortid": 303,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_brown_mushroom_block"
+    },
+    {
+      "name": "UCRedMushroomBlock",
+      "type": "block",
+      "sortid": 304,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_red_mushroom_block"
+    },
+    {
+      "name": "UCMushroomStem",
+      "type": "block",
+      "sortid": 305,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_mushroom_stem"
+    },
+    {
+      "name": "UCCobblestoneWall",
+      "type": "block",
+      "sortid": 306,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_cobblestone_wall"
+    },
+    {
+      "name": "UCMossyCobblestoneWall",
+      "type": "block",
+      "sortid": 307,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_mossy_cobblestone_wall"
+    },
+    {
+      "name": "UCBrickWall",
+      "type": "block",
+      "sortid": 308,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_brick_wall"
+    },
+    {
+      "name": "UCPrismarineWall",
+      "type": "block",
+      "sortid": 309,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_prismarine_wall"
+    },
+    {
+      "name": "UCRedSandstoneWall",
+      "type": "block",
+      "sortid": 310,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_red_sandstone_wall"
+    },
+    {
+      "name": "UCMossyStoneBrickWall",
+      "type": "block",
+      "sortid": 311,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_mossy_stone_brick_wall"
+    },
+    {
+      "name": "UCGraniteWall",
+      "type": "block",
+      "sortid": 312,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_granite_wall"
+    },
+    {
+      "name": "UCStoneBrickWall",
+      "type": "block",
+      "sortid": 313,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_stone_brick_wall"
+    },
+    {
+      "name": "UCNetherBrickWall",
+      "type": "block",
+      "sortid": 314,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_nether_brick_wall"
+    },
+    {
+      "name": "UCSandstoneWall",
+      "type": "block",
+      "sortid": 315,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_sandstone_wall"
+    },
+    {
+      "name": "UCEndStoneBrickWall",
+      "type": "block",
+      "sortid": 316,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_end_stone_brick_wall"
+    },
+    {
+      "name": "UCDioriteWall",
+      "type": "block",
+      "sortid": 317,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_diorite_wall"
+    },
+    {
+      "name": "UCBlackstoneWall",
+      "type": "block",
+      "sortid": 318,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_blackstone_wall"
+    },
+    {
+      "name": "UCPolishedBlackstoneWall",
+      "type": "block",
+      "sortid": 319,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_polished_blackstone_wall"
+    },
+    {
+      "name": "UCPolishedBlackstoneBrickWall",
+      "type": "block",
+      "sortid": 320,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_polished_blackstone_brick_wall"
+    },
+    {
+      "name": "UCWhiteStainedGlassPane",
+      "type": "block",
+      "sortid": 322,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_white_stained_glass_pane"
+    },
+    {
+      "name": "UCOrangeStainedGlassPane",
+      "type": "block",
+      "sortid": 323,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_orange_stained_glass_pane"
+    },
+    {
+      "name": "UCMagentaStainedGlassPane",
+      "type": "block",
+      "sortid": 324,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_magenta_stained_glass_pane"
+    },
+    {
+      "name": "UCLightBlueStainedGlassPane",
+      "type": "block",
+      "sortid": 325,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_light_blue_stained_glass_pane"
+    },
+    {
+      "name": "UCYellowStainedGlassPane",
+      "type": "block",
+      "sortid": 326,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_yellow_stained_glass_pane"
+    },
+    {
+      "name": "UCLimeStainedGlassPane",
+      "type": "block",
+      "sortid": 327,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_lime_stained_glass_pane"
+    },
+    {
+      "name": "UCPinkStainedGlassPane",
+      "type": "block",
+      "sortid": 328,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_pink_stained_glass_pane"
+    },
+    {
+      "name": "UCGrayStainedGlassPane",
+      "type": "block",
+      "sortid": 329,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_gray_stained_glass_pane"
+    },
+    {
+      "name": "UCLightGrayStainedGlassPane",
+      "type": "block",
+      "sortid": 330,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_light_gray_stained_glass_pane"
+    },
+    {
+      "name": "UCCyanStainedGlassPane",
+      "type": "block",
+      "sortid": 331,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_cyan_stained_glass_pane"
+    },
+    {
+      "name": "UCPurpleStainedGlassPane",
+      "type": "block",
+      "sortid": 332,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_purple_stained_glass_pane"
+    },
+    {
+      "name": "UCBlueStainedGlassPane",
+      "type": "block",
+      "sortid": 333,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_blue_stained_glass_pane"
+    },
+    {
+      "name": "UCBrownStainedGlassPane",
+      "type": "block",
+      "sortid": 334,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_brown_stained_glass_pane"
+    },
+    {
+      "name": "UCGreenStainedGlassPane",
+      "type": "block",
+      "sortid": 335,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_green_stained_glass_pane"
+    },
+    {
+      "name": "UCRedStainedGlassPane",
+      "type": "block",
+      "sortid": 336,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_red_stained_glass_pane"
+    },
+    {
+      "name": "UCBlackStainedGlassPane",
+      "type": "block",
+      "sortid": 337,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_black_stained_glass_pane"
+    },
+    {
+      "name": "UCShulkerBox",
+      "type": "block",
+      "sortid": 338,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_shulker_box"
+    },
+    {
+      "name": "UCWhiteShulkerBox",
+      "type": "block",
+      "sortid": 339,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_white_shulker_box"
+    },
+    {
+      "name": "UCOrangeShulkerBox",
+      "type": "block",
+      "sortid": 340,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_orange_shulker_box"
+    },
+    {
+      "name": "UCMagentaShulkerBox",
+      "type": "block",
+      "sortid": 341,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_magenta_shulker_box"
+    },
+    {
+      "name": "UCLightBlueShulkerBox",
+      "type": "block",
+      "sortid": 342,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_light_blue_shulker_box"
+    },
+    {
+      "name": "UCYellowShulkerBox",
+      "type": "block",
+      "sortid": 343,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_yellow_shulker_box"
+    },
+    {
+      "name": "UCLimeShulkerBox",
+      "type": "block",
+      "sortid": 344,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_lime_shulker_box"
+    },
+    {
+      "name": "UCPinkShulkerBox",
+      "type": "block",
+      "sortid": 345,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_pink_shulker_box"
+    },
+    {
+      "name": "UCGrayShulkerBox",
+      "type": "block",
+      "sortid": 346,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_gray_shulker_box"
+    },
+    {
+      "name": "UCLightGrayShulkerBox",
+      "type": "block",
+      "sortid": 347,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_light_gray_shulker_box"
+    },
+    {
+      "name": "UCCyanShulkerBox",
+      "type": "block",
+      "sortid": 348,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_cyan_shulker_box"
+    },
+    {
+      "name": "UCPurpleShulkerBox",
+      "type": "block",
+      "sortid": 349,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_purple_shulker_box"
+    },
+    {
+      "name": "UCBlueShulkerBox",
+      "type": "block",
+      "sortid": 350,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_blue_shulker_box"
+    },
+    {
+      "name": "UCBrownShulkerBox",
+      "type": "block",
+      "sortid": 351,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_brown_shulker_box"
+    },
+    {
+      "name": "UCGreenShulkerBox",
+      "type": "block",
+      "sortid": 352,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_green_shulker_box"
+    },
+    {
+      "name": "UCRedShulkerBox",
+      "type": "block",
+      "sortid": 353,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_red_shulker_box"
+    },
+    {
+      "name": "UCBlackShulkerBox",
+      "type": "block",
+      "sortid": 354,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_black_shulker_box"
+    },
+    {
+      "name": "UCWhiteGlazedTerracotta",
+      "type": "block",
+      "sortid": 355,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_white_glazed_terracotta"
+    },
+    {
+      "name": "UCOrangeGlazedTerracotta",
+      "type": "block",
+      "sortid": 356,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_orange_glazed_terracotta"
+    },
+    {
+      "name": "UCMagentaGlazedTerracotta",
+      "type": "block",
+      "sortid": 357,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_magenta_glazed_terracotta"
+    },
+    {
+      "name": "UCLightBlueGlazedTerracotta",
+      "type": "block",
+      "sortid": 358,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_light_blue_glazed_terracotta"
+    },
+    {
+      "name": "UCYellowGlazedTerracotta",
+      "type": "block",
+      "sortid": 359,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_yellow_glazed_terracotta"
+    },
+    {
+      "name": "UCLimeGlazedTerracotta",
+      "type": "block",
+      "sortid": 360,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_lime_glazed_terracotta"
+    },
+    {
+      "name": "UCPinkGlazedTerracotta",
+      "type": "block",
+      "sortid": 361,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_pink_glazed_terracotta"
+    },
+    {
+      "name": "UCGrayGlazedTerracotta",
+      "type": "block",
+      "sortid": 362,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_gray_glazed_terracotta"
+    },
+    {
+      "name": "UCLightGrayGlazedTerracotta",
+      "type": "block",
+      "sortid": 363,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_light_gray_glazed_terracotta"
+    },
+    {
+      "name": "UCCyanGlazedTerracotta",
+      "type": "block",
+      "sortid": 364,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_cyan_glazed_terracotta"
+    },
+    {
+      "name": "UCPurpleGlazedTerracotta",
+      "type": "block",
+      "sortid": 365,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_purple_glazed_terracotta"
+    },
+    {
+      "name": "UCBlueGlazedTerracotta",
+      "type": "block",
+      "sortid": 366,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_blue_glazed_terracotta"
+    },
+    {
+      "name": "UCBrownGlazedTerracotta",
+      "type": "block",
+      "sortid": 367,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_brown_glazed_terracotta"
+    },
+    {
+      "name": "UCGreenGlazedTerracotta",
+      "type": "block",
+      "sortid": 368,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_green_glazed_terracotta"
+    },
+    {
+      "name": "UCRedGlazedTerracotta",
+      "type": "block",
+      "sortid": 369,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_red_glazed_terracotta"
+    },
+    {
+      "name": "UCBlackGlazedTerracotta",
+      "type": "block",
+      "sortid": 370,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_black_glazed_terracotta"
+    },
+    {
+      "name": "UCLoom",
+      "type": "block",
+      "sortid": 371,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_loom"
+    },
+    {
+      "name": "UCBarrel",
+      "type": "block",
+      "sortid": 372,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_barrel"
+    },
+    {
+      "name": "UCSmoker",
+      "type": "block",
+      "sortid": 373,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_smoker"
+    },
+    {
+      "name": "UCLitSmoker",
+      "type": "block",
+      "sortid": 374,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_lit_smoker"
+    },
+    {
+      "name": "UCBlastFurnace",
+      "type": "block",
+      "sortid": 375,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_blast_furnace"
+    },
+    {
+      "name": "UCLitBlastFurnace",
+      "type": "block",
+      "sortid": 376,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_lit_blast_furnace"
+    },
+    {
+      "name": "UCCartographyTable",
+      "type": "block",
+      "sortid": 377,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_cartography_table"
+    },
+    {
+      "name": "UCFletchingTable",
+      "type": "block",
+      "sortid": 378,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_fletching_table"
+    },
+    {
+      "name": "UCSmithingTable",
+      "type": "block",
+      "sortid": 379,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_smithing_table"
+    },
+    {
+      "name": "UCShroomlight",
+      "type": "block",
+      "sortid": 380,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_shroomlight"
+    },
+    {
+      "name": "UCBeeNest",
+      "type": "block",
+      "sortid": 381,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_bee_nest"
+    },
+    {
+      "name": "UCBeeNestHoney",
+      "type": "block",
+      "sortid": 382,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_bee_nest_honey"
+    },
+    {
+      "name": "UCBeeHive",
+      "type": "block",
+      "sortid": 383,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_bee_hive"
+    },
+    {
+      "name": "UCBeeHiveHoney",
+      "type": "block",
+      "sortid": 384,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_bee_hive_honey"
+    },
+    {
+      "name": "UCSlimeBlock",
+      "type": "block",
+      "sortid": 321,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_slime_block"
+    },
+    {
+      "name": "UCHoneyBlock",
+      "type": "block",
+      "sortid": 385,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_honey_block"
+    },
+    {
+      "name": "UCHoneycombBlock",
+      "type": "block",
+      "sortid": 386,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_honeycomb_block"
+    },
+    {
+      "name": "UCLodestone",
+      "type": "block",
+      "sortid": 387,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_lodestone"
+    },
+    {
+      "name": "UCRespawnAnchor",
+      "type": "block",
+      "sortid": 388,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_respawn_anchor"
+    },
+    {
+      "name": "UCLitRespawnAnchor1",
+      "type": "block",
+      "sortid": 389,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_lit_respawn_anchor_1"
+    },
+    {
+      "name": "UCLitRespawnAnchor2",
+      "type": "block",
+      "sortid": 390,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_lit_respawn_anchor_2"
+    },
+    {
+      "name": "UCLitRespawnAnchor3",
+      "type": "block",
+      "sortid": 391,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_lit_respawn_anchor_3"
+    },
+    {
+      "name": "UCLitRespawnAnchor4",
+      "type": "block",
+      "sortid": 392,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_lit_respawn_anchor_4"
+    },
+    {
+      "name": "UCDispenser",
+      "type": "block",
+      "sortid": 393,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dispenser"
+    },
+    {
+      "name": "UCDispenserVertical",
+      "type": "block",
+      "sortid": 394,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dispenser_vertical"
+    },
+    {
+      "name": "UCNoteblock",
+      "type": "block",
+      "sortid": 395,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_noteblock"
+    },
+    {
+      "name": "UCStickyPiston",
+      "type": "block",
+      "sortid": 396,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_sticky_piston"
+    },
+    {
+      "name": "UCPiston",
+      "type": "block",
+      "sortid": 397,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_piston"
+    },
+    {
+      "name": "UCTNT",
+      "type": "block",
+      "sortid": 398,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uctnt"
+    },
+    {
+      "name": "UCStonePressurePlate",
+      "type": "block",
+      "sortid": 399,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_stone_pressure_plate"
+    },
+    {
+      "name": "UCOakPressurePlate",
+      "type": "block",
+      "sortid": 400,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_oak_pressure_plate"
+    },
+    {
+      "name": "UCSprucePressurePlate",
+      "type": "block",
+      "sortid": 401,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_spruce_pressure_plate"
+    },
+    {
+      "name": "UCBirchPressurePlate",
+      "type": "block",
+      "sortid": 402,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_birch_pressure_plate"
+    },
+    {
+      "name": "UCJunglePressurePlate",
+      "type": "block",
+      "sortid": 403,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_jungle_pressure_plate"
+    },
+    {
+      "name": "UCAcaciaPressurePlate",
+      "type": "block",
+      "sortid": 404,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_acacia_pressure_plate"
+    },
+    {
+      "name": "UCDarkOakPressurePlate",
+      "type": "block",
+      "sortid": 405,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dark_oak_pressure_plate"
+    },
+    {
+      "name": "UCCrimsonPressurePlate",
+      "type": "block",
+      "sortid": 406,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_crimson_pressure_plate"
+    },
+    {
+      "name": "UCWarpedPressurePlate",
+      "type": "block",
+      "sortid": 407,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_warped_pressure_plate"
+    },
+    {
+      "name": "UCPolishedBlackstonePressurePlate",
+      "type": "block",
+      "sortid": 408,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_polished_blackstone_pressure_plate"
+    },
+    {
+      "name": "UCOakFenceGate",
+      "type": "block",
+      "sortid": 417,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_oak_fence_gate"
+    },
+    {
+      "name": "UCSpruceFenceGate",
+      "type": "block",
+      "sortid": 418,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_spruce_fence_gate"
+    },
+    {
+      "name": "UCBirchFenceGate",
+      "type": "block",
+      "sortid": 419,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_birch_fence_gate"
+    },
+    {
+      "name": "UCJungleFenceGate",
+      "type": "block",
+      "sortid": 420,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_jungle_fence_gate"
+    },
+    {
+      "name": "UCAcaciaFenceGate",
+      "type": "block",
+      "sortid": 421,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_acacia_fence_gate"
+    },
+    {
+      "name": "UCDarkOakFenceGate",
+      "type": "block",
+      "sortid": 422,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dark_oak_fence_gate"
+    },
+    {
+      "name": "UCCrimsonFenceGate",
+      "type": "block",
+      "sortid": 423,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_crimson_fence_gate"
+    },
+    {
+      "name": "UCWarpedFenceGate",
+      "type": "block",
+      "sortid": 424,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_warped_fence_gate"
+    },
+    {
+      "name": "UCOakTrapdoor",
+      "type": "block",
+      "sortid": 409,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_oak_trapdoor"
+    },
+    {
+      "name": "UCSpruceTrapdoor",
+      "type": "block",
+      "sortid": 410,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_spruce_trapdoor"
+    },
+    {
+      "name": "UCBirchTrapdoor",
+      "type": "block",
+      "sortid": 411,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_birch_trapdoor"
+    },
+    {
+      "name": "UCJungleTrapdoor",
+      "type": "block",
+      "sortid": 412,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_jungle_trapdoor"
+    },
+    {
+      "name": "UCAcaciaTrapdoor",
+      "type": "block",
+      "sortid": 413,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_acacia_trapdoor"
+    },
+    {
+      "name": "UCDarkOakTrapdoor",
+      "type": "block",
+      "sortid": 414,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dark_oak_trapdoor"
+    },
+    {
+      "name": "UCCrimsonTrapdoor",
+      "type": "block",
+      "sortid": 415,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_crimson_trapdoor"
+    },
+    {
+      "name": "UCWarpedTrapdoor",
+      "type": "block",
+      "sortid": 416,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_warped_trapdoor"
+    },
+    {
+      "name": "UCRedstoneLamp",
+      "type": "block",
+      "sortid": 425,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_redstone_lamp"
+    },
+    {
+      "name": "UCLitRedstoneLamp",
+      "type": "block",
+      "sortid": 426,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_lit_redstone_lamp"
+    },
+    {
+      "name": "UCStoneButton",
+      "type": "block",
+      "sortid": 427,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_stone_button"
+    },
+    {
+      "name": "UCOakButton",
+      "type": "block",
+      "sortid": 428,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_oak_button"
+    },
+    {
+      "name": "UCSpruceButton",
+      "type": "block",
+      "sortid": 429,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_spruce_button"
+    },
+    {
+      "name": "UCBirchButton",
+      "type": "block",
+      "sortid": 430,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_birch_button"
+    },
+    {
+      "name": "UCJungleButton",
+      "type": "block",
+      "sortid": 431,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_jungle_button"
+    },
+    {
+      "name": "UCAcaciaButton",
+      "type": "block",
+      "sortid": 432,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_acacia_button"
+    },
+    {
+      "name": "UCDarkOakButton",
+      "type": "block",
+      "sortid": 433,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dark_oak_button"
+    },
+    {
+      "name": "UCCrimsonButton",
+      "type": "block",
+      "sortid": 434,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_crimson_button"
+    },
+    {
+      "name": "UCWarpedButton",
+      "type": "block",
+      "sortid": 435,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_warped_button"
+    },
+    {
+      "name": "UCPolishedBlackstoneButton",
+      "type": "block",
+      "sortid": 436,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_polished_blackstone_button"
+    },
+    {
+      "name": "UCLightWeightedPressurePlate",
+      "type": "block",
+      "sortid": 437,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_light_weighted_pressure_plate"
+    },
+    {
+      "name": "UCHeavyWeightedPressurePlate",
+      "type": "block",
+      "sortid": 438,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_heavy_weighted_pressure_plate"
+    },
+    {
+      "name": "UCBlockOfRedstone",
+      "type": "block",
+      "sortid": 439,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_block_of_redstone"
+    },
+    {
+      "name": "UCDropper",
+      "type": "block",
+      "sortid": 440,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dropper"
+    },
+    {
+      "name": "UCDropperVertical",
+      "type": "block",
+      "sortid": 441,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dropper_vertical"
+    },
+    {
+      "name": "UCIronTrapdoor",
+      "type": "block",
+      "sortid": 442,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_iron_trapdoor"
+    },
+    {
+      "name": "UCObserver",
+      "type": "block",
+      "sortid": 443,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_observer"
+    },
+    {
+      "name": "UCIronDoor",
+      "type": "block",
+      "sortid": 444,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_iron_door"
+    },
+    {
+      "name": "UCOakDoor",
+      "type": "block",
+      "sortid": 445,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_oak_door"
+    },
+    {
+      "name": "UCSpruceDoor",
+      "type": "block",
+      "sortid": 446,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_spruce_door"
+    },
+    {
+      "name": "UCBirchDoor",
+      "type": "block",
+      "sortid": 447,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_birch_door"
+    },
+    {
+      "name": "UCJungleDoor",
+      "type": "block",
+      "sortid": 448,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_jungle_door"
+    },
+    {
+      "name": "UCAcaciaDoor",
+      "type": "block",
+      "sortid": 449,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_acacia_door"
+    },
+    {
+      "name": "UCDarkOakDoor",
+      "type": "block",
+      "sortid": 450,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_dark_oak_door"
+    },
+    {
+      "name": "UCCrimsonDoor",
+      "type": "block",
+      "sortid": 451,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_crimson_door"
+    },
+    {
+      "name": "UCWarpedDoor",
+      "type": "block",
+      "sortid": 452,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_warped_door"
+    },
+    {
+      "name": "UCTarget",
+      "type": "block",
+      "sortid": 453,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_target"
+    },
+    {
+      "name": "UCSpawner",
+      "type": "block",
+      "sortid": 454,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_spawner"
+    },
+    {
+      "name": "UCCommandBlock",
+      "type": "block",
+      "sortid": 455,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_command_block"
+    },
+    {
+      "name": "UCCommandBlockConditional",
+      "type": "block",
+      "sortid": 456,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_command_block_conditional"
+    },
+    {
+      "name": "UCChainCommandBlock",
+      "type": "block",
+      "sortid": 457,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_chain_command_block"
+    },
+    {
+      "name": "UCChainCommandBlockConditional",
+      "type": "block",
+      "sortid": 458,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_chain_command_block_conditional"
+    },
+    {
+      "name": "UCRepeatingCommandBlock",
+      "type": "block",
+      "sortid": 459,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_repeating_command_block"
+    },
+    {
+      "name": "UCRepeatingCommandBlockConditional",
+      "type": "block",
+      "sortid": 460,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_repeating_command_block_conditional"
+    },
+    {
+      "name": "UCStructureBlock",
+      "type": "block",
+      "sortid": 461,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_structure_block"
+    },
+    {
+      "name": "UCStructureBlockCorner",
+      "type": "block",
+      "sortid": 462,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_structure_block_corner"
+    },
+    {
+      "name": "UCStructureBlockData",
+      "type": "block",
+      "sortid": 463,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_structure_block_data"
+    },
+    {
+      "name": "UCStructureBlockLoad",
+      "type": "block",
+      "sortid": 464,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_structure_block_load"
+    },
+    {
+      "name": "UCStructureBlockSave",
+      "type": "block",
+      "sortid": 465,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_structure_block_save"
+    },
+    {
+      "name": "UCJigsawBlock",
+      "type": "block",
+      "sortid": 466,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_jigsaw_block"
+    },
+    {
+      "name": "UCBreakableFurnace",
+      "type": "block",
+      "sortid": 467,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakable_furnace"
+    },
+    {
+      "name": "UCBreakableBlastFurnace",
+      "type": "block",
+      "sortid": 468,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakable_blast_furnace"
+    },
+    {
+      "name": "UCBreakableSmoker",
+      "type": "block",
+      "sortid": 469,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakable_smoker"
+    },
+    {
+      "name": "UCBreakableDispenser",
+      "type": "block",
+      "sortid": 470,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakable_dispenser"
+    },
+    {
+      "name": "UCBreakableDropper",
+      "type": "block",
+      "sortid": 471,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakable_dropper"
+    },
+    {
+      "name": "UCBreakableJukebox",
+      "type": "block",
+      "sortid": 472,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakable_jukebox"
+    },
+    {
+      "name": "UCBreakableShulkerBox",
+      "type": "block",
+      "sortid": 473,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakable_shulker_box"
+    },
+    {
+      "name": "UCBreakableWhiteShulkerBox",
+      "type": "block",
+      "sortid": 474,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakable_white_shulker_box"
+    },
+    {
+      "name": "UCBreakableOrangeShulkerBox",
+      "type": "block",
+      "sortid": 475,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakable_orange_shulker_box"
+    },
+    {
+      "name": "UCBreakableMagentaShulkerBox",
+      "type": "block",
+      "sortid": 476,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakable_magenta_shulker_box"
+    },
+    {
+      "name": "UCBreakableLightBlueShulkerBox",
+      "type": "block",
+      "sortid": 477,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakable_light_blue_shulker_box"
+    },
+    {
+      "name": "UCBreakableYellowShulkerBox",
+      "type": "block",
+      "sortid": 478,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakable_yellow_shulker_box"
+    },
+    {
+      "name": "UCBreakableLimeShulkerBox",
+      "type": "block",
+      "sortid": 479,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakable_lime_shulker_box"
+    },
+    {
+      "name": "UCBreakablePinkShulkerBox",
+      "type": "block",
+      "sortid": 480,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakable_pink_shulker_box"
+    },
+    {
+      "name": "UCBreakableGrayShulkerBox",
+      "type": "block",
+      "sortid": 481,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakable_gray_shulker_box"
+    },
+    {
+      "name": "UCBreakableLightGrayShulkerBox",
+      "type": "block",
+      "sortid": 482,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakable_light_gray_shulker_box"
+    },
+    {
+      "name": "UCBreakableCyanShulkerBox",
+      "type": "block",
+      "sortid": 483,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakable_cyan_shulker_box"
+    },
+    {
+      "name": "UCBreakablePurpleShulkerBox",
+      "type": "block",
+      "sortid": 484,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakable_purple_shulker_box"
+    },
+    {
+      "name": "UCBreakableBlueShulkerBox",
+      "type": "block",
+      "sortid": 485,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakable_blue_shulker_box"
+    },
+    {
+      "name": "UCBreakableBrownShulkerBox",
+      "type": "block",
+      "sortid": 486,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakable_brown_shulker_box"
+    },
+    {
+      "name": "UCBreakableGreenShulkerBox",
+      "type": "block",
+      "sortid": 487,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakable_green_shulker_box"
+    },
+    {
+      "name": "UCBreakableRedShulkerBox",
+      "type": "block",
+      "sortid": 488,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakable_red_shulker_box"
+    },
+    {
+      "name": "UCBreakableBlackShulkerBox",
+      "type": "block",
+      "sortid": 489,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakable_black_shulker_box"
+    },
+    {
+      "name": "UCUnbreakables",
+      "type": "tab",
+      "sortid": 490,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_unbreakables"
+    },
+    {
+      "name": "UCBreakables",
+      "type": "tab",
+      "sortid": 491,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uc_breakables"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.unbreakable_constructs_mod.uc_cracked_stone_bricks": "UC Cracked Stone Bricks",
+      "block.unbreakable_constructs_mod.uc_orange_glazed_terracotta": "UC Orange Glazed Terracotta",
+      "block.unbreakable_constructs_mod.uc_acacia_log": "UC Acacia Log",
+      "block.unbreakable_constructs_mod.uc_magma_block": "UC Magma Block",
+      "block.unbreakable_constructs_mod.uc_red_nether_brick_stairs": "UC Red Nether Bricks Stairs",
+      "block.unbreakable_constructs_mod.uc_target": "UC Target",
+      "block.unbreakable_constructs_mod.uc_crimson_pressure_plate": "UC Crimson Pressure Plate",
+      "block.unbreakable_constructs_mod.uc_breakable_furnace": "UC Breakable Furnace",
+      "block.unbreakable_constructs_mod.uc_podzol": "UC Podzol",
+      "block.unbreakable_constructs_mod.uc_light_blue_stained_glass": "UC Light Blue Stained Glass",
+      "block.unbreakable_constructs_mod.uc_brick_stairs": "UC Brick Stairs",
+      "block.unbreakable_constructs_mod.uc_crimson_planks": "UC Crimson Planks",
+      "block.unbreakable_constructs_mod.uc_brick_wall": "UC Brick Wall",
+      "block.unbreakable_constructs_mod.uc_gray_stained_glass": "UC Gray Stained Glass",
+      "block.unbreakable_constructs_mod.uc_black_stained_glass": "UC Black Stained Glass",
+      "block.unbreakable_constructs_mod.uc_sand": "UC Sand",
+      "block.unbreakable_constructs_mod.uc_cyan_terracotta": "UC Cyan Terracotta",
+      "block.unbreakable_constructs_mod.uc_polished_blackstone_slab": "UC Polished Blackstone Slab",
+      "block.unbreakable_constructs_mod.uc_polished_blackstone_brick_wall": "UC Polished Blackstone Brick Wall",
+      "block.unbreakable_constructs_mod.uc_purple_stained_glass_pane": "UC Purple Stained Glass Pane",
+      "block.unbreakable_constructs_mod.uc_light_blue_concrete": "UC Light Blue Concrete",
+      "block.unbreakable_constructs_mod.uc_bone_block": "UC Bone Block",
+      "block.unbreakable_constructs_mod.uc_white_concrete": "UC White Concrete",
+      "block.unbreakable_constructs_mod.uc_sticky_piston": "UC Sticky Piston",
+      "block.unbreakable_constructs_mod.uc_spruce_door": "UC Spruce Door",
+      "block.unbreakable_constructs_mod.uc_black_terracotta": "UC Black Terracotta",
+      "block.unbreakable_constructs_mod.uc_jungle_door": "UC Jungle Door",
+      "block.unbreakable_constructs_mod.uc_light_gray_shulker_box": "UC Light Gray Shulker Box",
+      "block.unbreakable_constructs_mod.uc_green_stained_glass_pane": "UC Green Stained Glass Pane",
+      "block.unbreakable_constructs_mod.uc_blackstone": "UC Blackstone",
+      "block.unbreakable_constructs_mod.uc_dark_oak_planks": "UC Dark Oak Planks",
+      "block.unbreakable_constructs_mod.uc_yellow_terracotta": "UC Yellow Terracotta",
+      "block.unbreakable_constructs_mod.uc_lime_wool": "UC Lime Wool",
+      "block.unbreakable_constructs_mod.uc_orange_shulker_box": "UC Orange Shulker Box",
+      "block.unbreakable_constructs_mod.uc_dark_oak_fence": "UC Dark Oak Fence",
+      "block.unbreakable_constructs_mod.uc_andesite_slab": "UC Andesite Slab",
+      "block.unbreakable_constructs_mod.uc_structure_block_save": "UC Structure Block Save",
+      "block.unbreakable_constructs_mod.uc_stone_pressure_plate": "UC Stone Pressure Plate",
+      "block.unbreakable_constructs_mod.uc_polished_blackstone_stairs": "UC Polished Blackstone Stairs",
+      "block.unbreakable_constructs_mod.uc_white_terracotta": "UC White Terracotta",
+      "block.unbreakable_constructs_mod.uc_warped_slab": "UC Warped Slab",
+      "block.unbreakable_constructs_mod.uc_bee_nest_honey": "UC Bee Nest Honey",
+      "block.unbreakable_constructs_mod.uc_breakable_cyan_shulker_box": "UC Breakable Cyan Shulker Box",
+      "block.unbreakable_constructs_mod.uc_magenta_terracotta": "UC Magenta Terracotta",
+      "block.unbreakable_constructs_mod.uc_emerald_ore": "UC Emerald Ore",
+      "block.unbreakable_constructs_mod.uc_orange_stained_glass": "UC Orange Stained Glass",
+      "block.unbreakable_constructs_mod.uc_red_sandstone_wall": "UC Red Sandstone Wall",
+      "block.unbreakable_constructs_mod.uc_chain_command_block_conditional": "UC Chain Command Block",
+      "block.unbreakable_constructs_mod.uc_magenta_glazed_terracotta": "UC Magenta Glazed Terracotta",
+      "block.unbreakable_constructs_mod.uc_block_of_emerald": "UC Block Of Emerald",
+      "block.unbreakable_constructs_mod.uc_smooth_red_sandstone_slab": "UC Smooth Red Sandstone Slab",
+      "block.unbreakable_constructs_mod.uc_light_gray_wool": "UC Light Gray Wool",
+      "block.unbreakable_constructs_mod.uc_redstone_lamp": "UC Redstone Lamp",
+      "block.unbreakable_constructs_mod.uc_stone_slab": "UC Stone Slab",
+      "block.unbreakable_constructs_mod.uc_spruce_button": "UC Spruce Button",
+      "block.unbreakable_constructs_mod.uc_acacia_button": "UC Acacia Button",
+      "block.unbreakable_constructs_mod.uc_white_concrete_powder": "UC White Concrete Powder",
+      "block.unbreakable_constructs_mod.uc_smooth_quartz_slab": "UC Smooth Quartz Slab",
+      "block.unbreakable_constructs_mod.uc_spruce_fence": "UC Spruce Fence",
+      "block.unbreakable_constructs_mod.uc_dark_oak_button": "UC Dark Oak Button",
+      "block.unbreakable_constructs_mod.uc_coarse_dirt": "UC Coarse Dirt",
+      "block.unbreakable_constructs_mod.uc_purpur_pillar": "UC Purpur Pillar",
+      "block.unbreakable_constructs_mod.uc_breakable_light_gray_shulker_box": "UC Breakable Light Gray Shulker Box",
+      "block.unbreakable_constructs_mod.uc_structure_block": "UC Structure Block",
+      "block.unbreakable_constructs_mod.uc_red_concrete": "UC Red Concrete",
+      "block.unbreakable_constructs_mod.uc_oak_pressure_plate": "UC Oak Pressure Plate",
+      "block.unbreakable_constructs_mod.uc_lime_stained_glass": "UC Lime Stained Glass",
+      "block.unbreakable_constructs_mod.uc_spruce_slab": "UC Spruce Slab",
+      "block.unbreakable_constructs_mod.uc_heavy_weighted_pressure_plate": "UC Heavy Weighted Pressure Plate",
+      "block.unbreakable_constructs_mod.uc_jungle_stairs": "UC Jungle Stairs",
+      "block.unbreakable_constructs_mod.uc_blue_terracotta": "UC Blue Terracotta",
+      "block.unbreakable_constructs_mod.uc_sea_lantern": "UC Sea Lantern",
+      "block.unbreakable_constructs_mod.uc_prismarine_bricks": "UC Prismarine Bricks",
+      "block.unbreakable_constructs_mod.uc_jungle_slab": "UC Jungle Slab",
+      "block.unbreakable_constructs_mod.uc_granite_wall": "UC Granite Wall",
+      "block.unbreakable_constructs_mod.uc_brown_terracotta": "UC Brown Terracotta",
+      "block.unbreakable_constructs_mod.uc_command_block_conditional": "UC Command Block",
+      "block.unbreakable_constructs_mod.uc_stone": "UC Stone",
+      "block.unbreakable_constructs_mod.uc_acacia_fence_gate": "UC Acacia Fence Gate",
+      "block.unbreakable_constructs_mod.uc_brown_concrete": "UC Brown Concrete",
+      "block.unbreakable_constructs_mod.uc_crimson_fence_gate": "UC Crimson Fence Gate",
+      "block.unbreakable_constructs_mod.uc_bee_hive": "UC Bee Hive",
+      "block.unbreakable_constructs_mod.uc_smooth_red_sandstone_stairs": "UC Smooth Red Sandstone Stairs",
+      "block.unbreakable_constructs_mod.uc_acacia_planks": "UC Acacia Planks",
+      "block.unbreakable_constructs_mod.uc_structure_block_load": "UC Structure Block Load",
+      "block.unbreakable_constructs_mod.uc_birch_stairs": "UC Birch Stairs",
+      "block.unbreakable_constructs_mod.uc_quartz_bricks": "UC Quartz Bricks",
+      "block.unbreakable_constructs_mod.uc_crimson_button": "UC Crimson Button",
+      "block.unbreakable_constructs_mod.uc_pink_stained_glass_pane": "UC Pink Stained Glass Pane",
+      "block.unbreakable_constructs_mod.uc_stripped_dark_oak_log": "UC Stripped Dark Oak Log",
+      "block.unbreakable_constructs_mod.uc_smooth_stone_slab": "UC Smooth Stone Slab",
+      "block.unbreakable_constructs_mod.uc_warped_planks": "UC Warped Planks",
+      "block.unbreakable_constructs_mod.uc_green_terracotta": "UC Green Terracotta",
+      "block.unbreakable_constructs_mod.uc_warped_fence": "UC Warped Fence",
+      "block.unbreakable_constructs_mod.uc_stripped_birch_log": "UC Stripped Birch Log",
+      "block.unbreakable_constructs_mod.uc_iron_trapdoor": "UC Iron Trapdoor",
+      "block.unbreakable_constructs_mod.uc_stone_brick_slab": "UC Stone Brick Slab",
+      "block.unbreakable_constructs_mod.uc_chiseled_sandstone": "UC Chiseled Sandstone",
+      "block.unbreakable_constructs_mod.uc_dispenser": "UC Dispenser",
+      "block.unbreakable_constructs_mod.uc_gray_stained_glass_pane": "UC Gray Stained Glass Pane",
+      "block.unbreakable_constructs_mod.uc_orange_terracotta": "UC Orange Terracotta",
+      "block.unbreakable_constructs_mod.uc_dead_bubble_coral_block": "UC Dead Bubble Coral Block",
+      "block.unbreakable_constructs_mod.uc_acacia_trapdoor": "UC Acacia Trapdoor",
+      "block.unbreakable_constructs_mod.uc_dark_oak_door": "UC Dark Oak Door",
+      "block.unbreakable_constructs_mod.uc_white_shulker_box": "UC White Shulker Box",
+      "block.unbreakable_constructs_mod.uc_lime_terracotta": "UC Lime Terracotta",
+      "block.unbreakable_constructs_mod.uc_jukebox": "UC Jukebox",
+      "block.unbreakable_constructs_mod.uc_breakable_dispenser": "UC Breakable Dispenser",
+      "block.unbreakable_constructs_mod.uc_pink_terracotta": "UC Pink Terracotta",
+      "block.unbreakable_constructs_mod.uc_stripped_warped_stem": "UC Stripped Warped Stem",
+      "block.unbreakable_constructs_mod.uc_prismarine_wall": "UC Prismarine Wall",
+      "block.unbreakable_constructs_mod.uc_lit_respawn_anchor_3": "UC Lit Respawn Anchor 3",
+      "block.unbreakable_constructs_mod.uc_lit_respawn_anchor_4": "UC Lit Respawn Anchor 4",
+      "block.unbreakable_constructs_mod.uc_lit_respawn_anchor_1": "UC Lit Respawn Anchor 1",
+      "block.unbreakable_constructs_mod.uc_mossy_cobblestone_wall": "UC Mossy Cobblestone Wall",
+      "block.unbreakable_constructs_mod.uc_lit_respawn_anchor_2": "UC Lit Respawn Anchor 2",
+      "block.unbreakable_constructs_mod.uc_yellow_wool": "UC Yellow Wool",
+      "block.unbreakable_constructs_mod.uc_crimson_slab": "UC Crimson Slab",
+      "block.unbreakable_constructs_mod.uc_red_nether_bricks": "UC Red Nether Bricks",
+      "block.unbreakable_constructs_mod.uc_fletching_table": "UC Fletching Table",
+      "block.unbreakable_constructs_mod.uc_warped_nylium": "UC Warped Nylium",
+      "block.unbreakable_constructs_mod.uc_dead_brain_coral_block": "UC Dead Brain Coral Block",
+      "block.unbreakable_constructs_mod.uc_green_shulker_box": "UC Green Shulker Box",
+      "block.unbreakable_constructs_mod.uc_red_sandstone": "UC Red Sandstone",
+      "block.unbreakable_constructs_mod.uc_purpur_block": "UC Purpur Block",
+      "block.unbreakable_constructs_mod.uc_jungle_fence": "UC Jungle Fence",
+      "block.unbreakable_constructs_mod.uc_pink_glazed_terracotta": "UC Pink Glazed Terracotta",
+      "block.unbreakable_constructs_mod.uc_diorite": "UC Diorite",
+      "block.unbreakable_constructs_mod.uc_mushroom_stem": "UC Mushroom Stem",
+      "block.unbreakable_constructs_mod.uc_noteblock": "UC Noteblock",
+      "block.unbreakable_constructs_mod.uc_polished_granite_stairs": "UC Polished Granite Stairs",
+      "block.unbreakable_constructs_mod.uc_dark_oak_trapdoor": "UC Dark Oak Trapdoor",
+      "block.unbreakable_constructs_mod.uc_black_stained_glass_pane": "UC Black Stained Glass Pane",
+      "block.unbreakable_constructs_mod.uc_oak_button": "UC Oak Button",
+      "block.unbreakable_constructs_mod.uc_cyan_stained_glass": "UC Cyan Stained Glass",
+      "block.unbreakable_constructs_mod.uc_polished_basalt": "UC Polished Basalt",
+      "block.unbreakable_constructs_mod.uc_stripped_jungle_log": "UC Stripped Jungle Log",
+      "block.unbreakable_constructs_mod.uc_green_concrete": "UC Green Concrete",
+      "block.unbreakable_constructs_mod.uc_glass": "UC Glass",
+      "block.unbreakable_constructs_mod.uc_grass_block": "UC Grass Block",
+      "block.unbreakable_constructs_mod.uc_dropper": "UC Dropper",
+      "block.unbreakable_constructs_mod.uc_stone_brick_wall": "UC Stone Brick Wall",
+      "block.unbreakable_constructs_mod.uc_magenta_stained_glass_pane": "UC Magenta Stained Glass Pane",
+      "block.unbreakable_constructs_mod.uc_repeating_command_block_conditional": "UC Repeating Command Block Conditional",
+      "block.unbreakable_constructs_mod.uc_snow": "UC Snow",
+      "block.unbreakable_constructs_mod.uc_light_blue_shulker_box": "UC Light Blue Shulker Box",
+      "block.unbreakable_constructs_mod.uc_bubble_coral_block": "UC Bubble Coral Block",
+      "block.unbreakable_constructs_mod.uc_horn_coral_block": "UC Horn Coral Block",
+      "block.unbreakable_constructs_mod.uc_chain_command_block": "UC Chain Command Block",
+      "block.unbreakable_constructs_mod.uc_dirt": "UC Dirt",
+      "block.unbreakable_constructs_mod.uc_shroomlight": "UC Shroomlight",
+      "block.unbreakable_constructs_mod.uc_slime_block": "UC Slime Block",
+      "itemGroup.tabuc_unbreakables": "UC Unbreakables",
+      "block.unbreakable_constructs_mod.uc_purple_glazed_terracotta": "UC Purple Glazed Terracotta",
+      "block.unbreakable_constructs_mod.uc_polished_andesite": "UC Polished Andesite",
+      "block.unbreakable_constructs_mod.uc_black_concrete": "UC Black Concrete",
+      "block.unbreakable_constructs_mod.uc_nether_brick_wall": "UC Nether Brick Wall",
+      "block.unbreakable_constructs_mod.uc_pumpkin": "UC Pumpkin",
+      "block.unbreakable_constructs_mod.uc_lodestone": "UC Lodestone",
+      "block.unbreakable_constructs_mod.uc_polished_blackstone": "UC Polished Blackstone",
+      "block.unbreakable_constructs_mod.uc_nether_gold_ore": "UC Nether Gold Ore",
+      "block.unbreakable_constructs_mod.uc_breakable_orange_shulker_box": "UC Breakable Orange Shulker Box",
+      "block.unbreakable_constructs_mod.uc_green_concrete_powder": "UC Green Concrete Powder",
+      "block.unbreakable_constructs_mod.uc_chiseled_red_sandstone": "UC Chiseled Red Sandstone",
+      "block.unbreakable_constructs_mod.uc_gray_concrete_powder": "UC Gray Concrete Powder",
+      "block.unbreakable_constructs_mod.uc_breakable_light_blue_shulker_box": "UC Breakable Light Blue Shulker Box",
+      "block.unbreakable_constructs_mod.uc_pink_concrete_powder": "UC Pink Concrete Powder",
+      "block.unbreakable_constructs_mod.uc_purpur_stairs": "UC Purpur Stairs",
+      "block.unbreakable_constructs_mod.uc_red_sand": "UC Red Sand",
+      "block.unbreakable_constructs_mod.uc_ancient_debris": "UC Ancient Debris",
+      "block.unbreakable_constructs_mod.uc_oak_log": "UC Oak Log",
+      "block.unbreakable_constructs_mod.uc_dark_oak_slab": "UC Dark Oak Slab",
+      "block.unbreakable_constructs_mod.uc_light_gray_glazed_terracotta": "UC Light Gray Glazed Terracotta",
+      "block.unbreakable_constructs_mod.uc_purple_concrete_powder": "UC Purple Concrete Powder",
+      "block.unbreakable_constructs_mod.uc_birch_door": "UC Birch Door",
+      "block.unbreakable_constructs_mod.uc_lime_concrete": "UC Lime Concrete",
+      "block.unbreakable_constructs_mod.uc_chiseled_polished_blackstone": "UC Chiseled Polished Blackstone",
+      "block.unbreakable_constructs_mod.uc_gravel": "UC Gravel",
+      "block.unbreakable_constructs_mod.uc_brown_mushroom_block": "UC Brown Mushroom Block",
+      "block.unbreakable_constructs_mod.uc_yellow_stained_glass_pane": "UC Yellow Stained Glass Pane",
+      "block.unbreakable_constructs_mod.uc_brown_stained_glass": "UC Brown Stained Glass",
+      "block.unbreakable_constructs_mod.uc_brown_concrete_powder": "UC Brown Concrete Powder",
+      "block.unbreakable_constructs_mod.uc_light_gray_terracotta": "UC Light Gray Terracotta",
+      "block.unbreakable_constructs_mod.uc_oak_fence_gate": "UC Oak Fence Gate",
+      "block.unbreakable_constructs_mod.uc_polished_andesite_stairs": "UC Polished Andesite Stairs",
+      "block.unbreakable_constructs_mod.uc_birch_leaves": "UC Birch Leaves",
+      "block.unbreakable_constructs_mod.uc_crimson_door": "UC Crimson Door",
+      "block.unbreakable_constructs_mod.uc_stone_bricks": "UC Stone Bricks",
+      "block.unbreakable_constructs_mod.uc_dark_prismarine_slab": "UC Dark Prismarine Slab",
+      "block.unbreakable_constructs_mod.uc_crimson_nylium": "UC Crimson Nylium",
+      "block.unbreakable_constructs_mod.uc_cyan_wool": "UC Cyan Wool",
+      "block.unbreakable_constructs_mod.uc_bee_nest": "UC Bee Nest",
+      "block.unbreakable_constructs_mod.uc_black_wool": "UC Black Wool",
+      "block.unbreakable_constructs_mod.uc_prismarine_stairs": "UC Prismarine Stairs",
+      "block.unbreakable_constructs_mod.uc_purple_shulker_box": "UC Purple Shulker Box",
+      "block.unbreakable_constructs_mod.uc_spruce_stairs": "UC Spruce Stairs",
+      "block.unbreakable_constructs_mod.uc_lime_shulker_box": "UC Lime Shulker Box",
+      "block.unbreakable_constructs_mod.uc_black_glazed_terracotta": "UC Black Glazed Terracotta",
+      "block.unbreakable_constructs_mod.uc_blast_furnace": "UC Blast Furnace",
+      "block.unbreakable_constructs_mod.uc_purpur_slab": "UC Purpur Slab",
+      "block.unbreakable_constructs_mod.uc_structure_block_data": "UC Structure Block Data",
+      "block.unbreakable_constructs_mod.uc_respawn_anchor": "UC Respawn Anchor",
+      "block.unbreakable_constructs_mod.uc_breakable_blast_furnace": "UC Breakable Blast Furnace",
+      "block.unbreakable_constructs_mod.uc_command_block": "UC Command Block",
+      "block.unbreakable_constructs_mod.uc_breakable_magenta_shulker_box": "UC Breakable Magenta Shulker Box",
+      "block.unbreakable_constructs_mod.uc_light_blue_stained_glass_pane": "UC Light Blue Stained Glass Pane",
+      "block.unbreakable_constructs_mod.uc_jungle_leaves": "UC Jungle Leaves",
+      "block.unbreakable_constructs_mod.uc_bookshelf": "UC Bookshelf",
+      "block.unbreakable_constructs_mod.uc_stripped_spruce_log": "UC Stripped Spruce Log",
+      "block.unbreakable_constructs_mod.uc_mossy_stone_brick_wall": "UC Mossy Stone Brick Wall",
+      "block.unbreakable_constructs_mod.uc_white_stained_glass_pane": "UC White Stained Glass Pane",
+      "block.unbreakable_constructs_mod.uc_spruce_pressure_plate": "UC Spruce Pressure Plate",
+      "block.unbreakable_constructs_mod.uc_bricks": "UC Bricks",
+      "block.unbreakable_constructs_mod.uc_crying_obsidian": "UC Crying Obsidian",
+      "block.unbreakable_constructs_mod.uc_prismarine_brick_slab": "UC Prismarine Brick Slab",
+      "block.unbreakable_constructs_mod.uc_gray_concrete": "UC Gray Concrete",
+      "block.unbreakable_constructs_mod.uc_stripped_acacia_log": "UC Stripped Acacia Log",
+      "block.unbreakable_constructs_mod.uc_block_of_diamond": "UC Block Of Diamond",
+      "block.unbreakable_constructs_mod.uc_breakable_yellow_shulker_box": "UC Breakable Yellow Shulker Box",
+      "block.unbreakable_constructs_mod.uc_end_stone_bricks": "UC End Stone Bricks",
+      "block.unbreakable_constructs_mod.uc_red_shulker_box": "UC Red Shulker Box",
+      "block.unbreakable_constructs_mod.uc_oak_trapdoor": "UC Oak Trapdoor",
+      "block.unbreakable_constructs_mod.uc_shulker_box": "UC Shulker Box",
+      "block.unbreakable_constructs_mod.uc_birch_fence": "UC Birch Fence",
+      "block.unbreakable_constructs_mod.uc_andesite": "UC Andesite",
+      "block.unbreakable_constructs_mod.uc_pink_shulker_box": "UC Pink Shulker Box",
+      "block.unbreakable_constructs_mod.uc_light_gray_stained_glass": "UC Light Gray Stained Glass",
+      "block.unbreakable_constructs_mod.uc_breakable_brown_shulker_box": "UC Breakable Brown Shulker Box",
+      "block.unbreakable_constructs_mod.uc_cyan_concrete": "UC Cyan Concrete",
+      "block.unbreakable_constructs_mod.uc_oak_stairs": "UC Oak Stairs",
+      "block.unbreakable_constructs_mod.uc_spawner": "UC Spawner",
+      "block.unbreakable_constructs_mod.uc_quartz_slab": "UC Quartz Slab",
+      "block.unbreakable_constructs_mod.uc_light_blue_concrete_powder": "UC Light Blue Concrete Powder",
+      "block.unbreakable_constructs_mod.uc_mossy_stone_bricks": "UC Mossy Stone Bricks",
+      "block.unbreakable_constructs_mod.uc_mossy_cobblestone": "UC Mossy Cobblestone",
+      "block.unbreakable_constructs_mod.uc_cut_red_sandstone_slab": "UC Cut Red Sandstone Slab",
+      "block.unbreakable_constructs_mod.uc_lime_glazed_terracotta": "UC Lime Glazed Terracotta",
+      "block.unbreakable_constructs_mod.uc_oak_door": "UC Oak Door",
+      "block.unbreakable_constructs_mod.uctnt": "UC TNT",
+      "block.unbreakable_constructs_mod.uc_lit_furnace": "UC Lit Furnace",
+      "block.unbreakable_constructs_mod.uc_brown_wool": "UC Brown Wool",
+      "block.unbreakable_constructs_mod.uc_magenta_concrete": "UC Magenta Concrete",
+      "block.unbreakable_constructs_mod.uc_dark_oak_fence_gate": "UC Dark Oak Fence Gate",
+      "block.unbreakable_constructs_mod.uc_sandstone_slab": "UC Sandstone Slab",
+      "block.unbreakable_constructs_mod.uc_basalt": "UC Basalt",
+      "block.unbreakable_constructs_mod.uc_quartz_stairs": "UC Quartz Stairs",
+      "block.unbreakable_constructs_mod.uc_acacia_pressure_plate": "UC Acacia Pressure Plate",
+      "block.unbreakable_constructs_mod.uc_smooth_stone": "UC Stone",
+      "block.unbreakable_constructs_mod.uc_block_of_redstone": "UC Block of Redstone",
+      "block.unbreakable_constructs_mod.uc_jungle_pressure_plate": "UC Jungle Pressure Plate",
+      "block.unbreakable_constructs_mod.uc_pink_stained_glass": "UC Pink Stained Glass",
+      "block.unbreakable_constructs_mod.uc_fire_coral_block": "UC Fire Coral Block",
+      "block.unbreakable_constructs_mod.uc_red_mushroom_block": "UC Red Mushroom Block",
+      "block.unbreakable_constructs_mod.uc_dead_horn_coral_block": "UC Dead Horn Coral Block",
+      "block.unbreakable_constructs_mod.uc_diorite_wall": "UC Diorite Wall",
+      "block.unbreakable_constructs_mod.uc_lapis_lazuli_ore": "UC Lapis Lazuli Ore",
+      "block.unbreakable_constructs_mod.uc_melon": "UC Melon",
+      "block.unbreakable_constructs_mod.uc_pink_concrete": "UC Pink Concrete",
+      "block.unbreakable_constructs_mod.uc_cyan_stained_glass_pane": "UC Cyan Stained Glass Pane",
+      "block.unbreakable_constructs_mod.uc_hay_bale": "UC Hay Bale",
+      "block.unbreakable_constructs_mod.uc_clay": "UC Clay",
+      "block.unbreakable_constructs_mod.uc_birch_fence_gate": "UC Birch Fence Gate",
+      "block.unbreakable_constructs_mod.uc_jungle_planks": "UC Jungle Planks",
+      "block.unbreakable_constructs_mod.uc_dropper_vertical": "UC Dropper Vertical",
+      "block.unbreakable_constructs_mod.uc_breakable_blue_shulker_box": "UC Breakable Blue Shulker Box",
+      "block.unbreakable_constructs_mod.uc_red_glazed_terracotta": "UC Red Glazed Terracotta",
+      "block.unbreakable_constructs_mod.uc_birch_slab": "UC Birch Slab",
+      "block.unbreakable_constructs_mod.uc_cartography_table": "UC Cartography Table",
+      "block.unbreakable_constructs_mod.uc_breakable_red_shulker_box": "UC Breakable Red Shulker Box",
+      "block.unbreakable_constructs_mod.uc_diorite_stairs": "UC Diorite Stairs",
+      "block.unbreakable_constructs_mod.uc_birch_trapdoor": "UC Birch Trapdoor",
+      "block.unbreakable_constructs_mod.uc_spruce_trapdoor": "UC Spruce Trapdoor",
+      "block.unbreakable_constructs_mod.uc_diamond_ore": "UC Diamond Ore",
+      "block.unbreakable_constructs_mod.uc_polished_blackstone_button": "UC Polished Blackstone Button",
+      "block.unbreakable_constructs_mod.uc_crimson_stem": "UC Crimson Stem",
+      "block.unbreakable_constructs_mod.uc_spruce_log": "UC Spruce Log",
+      "block.unbreakable_constructs_mod.uc_red_terracotta": "UC Red Terracotta",
+      "block.unbreakable_constructs_mod.uc_breakable_lime_shulker_box": "UC Breakable Lime Shulker Box",
+      "block.unbreakable_constructs_mod.uc_cut_sandstone_slab": "UC Cut Sandstone Slab",
+      "block.unbreakable_constructs_mod.uc_light_weighted_pressure_plate": "UC Light Weighted Pressure Plate",
+      "block.unbreakable_constructs_mod.uc_acacia_door": "UC Acacia Door",
+      "block.unbreakable_constructs_mod.uc_honey_block": "UC Honey Block",
+      "block.unbreakable_constructs_mod.uc_dark_oak_leaves": "UC Dark Oak Leaves",
+      "block.unbreakable_constructs_mod.uc_magenta_stained_glass": "UC Magenta Stained Glass",
+      "block.unbreakable_constructs_mod.uc_orange_concrete_powder": "UC Orange Concrete Powder",
+      "block.unbreakable_constructs_mod.uc_lime_concrete_powder": "UC Lime Concrete Powder",
+      "block.unbreakable_constructs_mod.uc_sponge": "UC Sponge",
+      "block.unbreakable_constructs_mod.uc_iron_ore": "UC Iron Ore",
+      "block.unbreakable_constructs_mod.uc_dead_fire_coral_block": "UC Dead Fire Coral Block",
+      "block.unbreakable_constructs_mod.uc_loom": "UC Loom",
+      "block.unbreakable_constructs_mod.uc_polished_granite_slab": "UC Polished Granite Slab",
+      "block.unbreakable_constructs_mod.uc_cobblestone_wall": "UC Cobblestone Wall",
+      "block.unbreakable_constructs_mod.uc_warped_trapdoor": "UC Warped Trapdoor",
+      "block.unbreakable_constructs_mod.uc_stripped_oak_log": "UC Stripped Oak Log",
+      "block.unbreakable_constructs_mod.uc_granite_slab": "UC Granite Slab",
+      "block.unbreakable_constructs_mod.uc_end_stone_brick_slab": "UC End Stone Brick Slab",
+      "block.unbreakable_constructs_mod.uc_red_concrete_powder": "UC Red Concrete Powder",
+      "block.unbreakable_constructs_mod.uc_acacia_slab": "UC Acacia Slab",
+      "block.unbreakable_constructs_mod.uc_warped_stairs": "UC Warped Stairs",
+      "block.unbreakable_constructs_mod.uc_polished_granite": "UC Polished Granite",
+      "block.unbreakable_constructs_mod.chiseled_quartz_block": "UC Chiseled Quartz Block",
+      "block.unbreakable_constructs_mod.uc_gray_glazed_terracotta": "UC Gray Glazed Terracotta",
+      "block.unbreakable_constructs_mod.uc_warped_fence_gate": "UC Warped Fence Gate",
+      "block.unbreakable_constructs_mod.uc_oak_leaves": "UC Oak Leaves",
+      "block.unbreakable_constructs_mod.uc_polished_diorite": "UC Polished Diorite",
+      "block.unbreakable_constructs_mod.uc_cobblestone_stairs": "UC Cobblestone Stairs",
+      "block.unbreakable_constructs_mod.uc_light_gray_concrete": "UC Light Gray Concrete",
+      "block.unbreakable_constructs_mod.uc_prismarine_slab": "UC Prismarine Slab",
+      "block.unbreakable_constructs_mod.uc_mossy_cobblestone_slab": "UC Mossy Cobblestone Slab",
+      "block.unbreakable_constructs_mod.uc_observer": "UC Observer",
+      "block.unbreakable_constructs_mod.uc_terracotta": "UC Terracotta",
+      "block.unbreakable_constructs_mod.uc_breakable_dropper": "UC Breakable Dropper",
+      "block.unbreakable_constructs_mod.uc_netherrack": "UC Netherrack",
+      "block.unbreakable_constructs_mod.uc_red_sandstone_stairs": "UC Red Sandstone Stairs",
+      "block.unbreakable_constructs_mod.uc_orange_stained_glass_pane": "UC Orange Stained Glass Pane",
+      "block.unbreakable_constructs_mod.uc_end_stone_brick_stairs": "UC End Stone Brick Stairs",
+      "block.unbreakable_constructs_mod.uc_crafting_table": "UC Crafting Table",
+      "block.unbreakable_constructs_mod.uc_jacko_lantern": "UC Jack o\u0027Lantern",
+      "block.unbreakable_constructs_mod.uc_lapis_lazuli_block": "UC Lapis Lazuli Block",
+      "block.unbreakable_constructs_mod.uc_lit_smoker": "UC Lit Smoker",
+      "block.unbreakable_constructs_mod.uc_stone_brick_stairs": "UC Stone Brick Stairs",
+      "block.unbreakable_constructs_mod.uc_nether_bricks": "UC Nether Bricks",
+      "block.unbreakable_constructs_mod.uc_jungle_trapdoor": "UC Jungle Trapdoor",
+      "block.unbreakable_constructs_mod.uc_gold_ore": "UC Gold Ore",
+      "block.unbreakable_constructs_mod.uc_glowstone": "UC Glowstone",
+      "block.unbreakable_constructs_mod.uc_soul_soil": "UC Soul Soil",
+      "block.unbreakable_constructs_mod.uc_crimson_stairs": "UC Crimson Stairs",
+      "block.unbreakable_constructs_mod.uc_light_blue_glazed_terracotta": "UC Light Blue Glazed Terracotta",
+      "block.unbreakable_constructs_mod.uc_green_wool": "UC Green Wool",
+      "block.unbreakable_constructs_mod.uc_soul_sand": "UC Soul Sand",
+      "block.unbreakable_constructs_mod.uc_yellow_concrete_powder": "UC Yellow Concrete Powder",
+      "block.unbreakable_constructs_mod.uc_warped_pressure_plate": "UC Warped Pressure Plate",
+      "block.unbreakable_constructs_mod.uc_wet_sponge": "UC Wet Sponge\t",
+      "block.unbreakable_constructs_mod.uc_polished_andesite_slab": "UC Polished Andesite Slab",
+      "block.unbreakable_constructs_mod.uc_piston": "UC Piston",
+      "block.unbreakable_constructs_mod.uc_cut_sandstone": "UC Cut Sandstone",
+      "block.unbreakable_constructs_mod.uc_ice": "UC Ice",
+      "block.unbreakable_constructs_mod.uc_acacia_stairs": "UC Acacia Stairs",
+      "block.unbreakable_constructs_mod.uc_oak_slab": "UC Oak Slab",
+      "block.unbreakable_constructs_mod.uc_polished_diorite_slab": "UC Polished Diorite Slab",
+      "itemGroup.tabuc_breakables": "UC Breakables",
+      "block.unbreakable_constructs_mod.uc_oak_fence": "UC Oak Fence",
+      "block.unbreakable_constructs_mod.uc_brick_slab": "UC Brick Slab",
+      "block.unbreakable_constructs_mod.uc_stone_stairs": "UC Stone Stairs",
+      "block.unbreakable_constructs_mod.uc_sandstone": "UC Sandstone",
+      "block.unbreakable_constructs_mod.uc_white_wool": "UC White Wool",
+      "block.unbreakable_constructs_mod.uc_prismarine": "UC Prismarine",
+      "block.unbreakable_constructs_mod.uc_dark_oak_stairs": "UC Dark Oak Stairs",
+      "block.unbreakable_constructs_mod.uc_red_nether_brick_slab": "UC Red Nether Brick Slab",
+      "block.unbreakable_constructs_mod.uc_polished_blackstone_wall": "UC Polished Blackstone Wall",
+      "block.unbreakable_constructs_mod.uc_acacia_fence": "UC Acacia Fence",
+      "block.unbreakable_constructs_mod.uc_polished_blackstone_brick_stairs": "UC Polished Blackstone Brick Stairs",
+      "block.unbreakable_constructs_mod.uc_jigsaw_block": "UC Jigsaw",
+      "block.unbreakable_constructs_mod.uc_green_glazed_terracotta": "UC Green Glazed Terracotta",
+      "block.unbreakable_constructs_mod.uc_breakable_shulker_box": "UC Breakable Shulker Box",
+      "block.unbreakable_constructs_mod.uc_quartz_pillar": "UC Quartz Pillar",
+      "block.unbreakable_constructs_mod.uc_jungle_button": "UC Jungle Button",
+      "block.unbreakable_constructs_mod.uc_dark_prismarine_stairs": "UC Dark Prismarine Stairs",
+      "block.unbreakable_constructs_mod.uc_stripped_crimson_stem": "UC Stripped Crimson Stem",
+      "block.unbreakable_constructs_mod.uc_spruce_fence_gate": "UC Spruce Fence Gate",
+      "block.unbreakable_constructs_mod.uc_gilded_blackstone": "UC Gilded Blackstone",
+      "block.unbreakable_constructs_mod.uc_red_sandstone_slab": "UC Red Sandstone Slab",
+      "block.unbreakable_constructs_mod.uc_warped_stem": "UC Warped Stem",
+      "block.unbreakable_constructs_mod.uc_warped_wart_block": "UC Warped Wart Block",
+      "block.unbreakable_constructs_mod.uc_crimson_trapdoor": "UC Crimson Trapdoor",
+      "block.unbreakable_constructs_mod.uc_dark_oak_pressure_plate": "UC Dark Oak Pressure Plate",
+      "block.unbreakable_constructs_mod.uc_spruce_leaves": "UC Spruce Leaves",
+      "block.unbreakable_constructs_mod.uc_gray_terracotta": "UC Gray Terracotta",
+      "block.unbreakable_constructs_mod.uc_purple_wool": "UC Purple Wool",
+      "block.unbreakable_constructs_mod.uc_lime_stained_glass_pane": "UC Lime Stained Glass Pane",
+      "block.unbreakable_constructs_mod.uc_birch_button": "UC Birch Button",
+      "block.unbreakable_constructs_mod.uc_breakable_black_shulker_box": "UC Breakable Black Shulker Box",
+      "block.unbreakable_constructs_mod.uc_green_stained_glass": "UC Green Stained Glass",
+      "block.unbreakable_constructs_mod.uc_dead_tube_coral_block": "UC Dead Tube Coral Block",
+      "block.unbreakable_constructs_mod.uc_blackstone_slab": "UC Blackstone Slab",
+      "block.unbreakable_constructs_mod.uc_red_stained_glass": "UC Red Stained Glass",
+      "block.unbreakable_constructs_mod.uc_nether_brick_slab": "UC Nether Brick Slab",
+      "block.unbreakable_constructs_mod.uc_packed_ice": "UC Packed Ice",
+      "block.unbreakable_constructs_mod.uc_purple_stained_glass": "UC Purple Stained Glass",
+      "block.unbreakable_constructs_mod.uc_jungle_fence_gate": "UC Jungle Fence Gate",
+      "block.unbreakable_constructs_mod.uc_blackstone_wall": "UC Blackstone Wall",
+      "block.unbreakable_constructs_mod.uc_coal_ore": "UC Coal Ore",
+      "block.unbreakable_constructs_mod.uc_blue_glazed_terracotta": "UC Blue Glazed Terracotta",
+      "block.unbreakable_constructs_mod.uc_iron_door": "UC Iron Door",
+      "block.unbreakable_constructs_mod.uc_nether_brick_stairs": "UC Nether Brick Stairs",
+      "block.unbreakable_constructs_mod.uc_chiseled_nether_bricks": "UC Chiseled Nether Bricks",
+      "block.unbreakable_constructs_mod.uc_block_of_netherite": "UC Block of Netherite",
+      "block.unbreakable_constructs_mod.uc_honeycomb_block": "UC Honeycomb Block",
+      "block.unbreakable_constructs_mod.uc_pink_wool": "UC Pink Wool",
+      "block.unbreakable_constructs_mod.uc_brown_stained_glass_pane": "UC Brown Stained Glass Pane",
+      "block.unbreakable_constructs_mod.uc_blockof_gold": "UC Block of Gold",
+      "block.unbreakable_constructs_mod.uc_blue_stained_glass_pane": "UC Blue Stained Glass Pane",
+      "block.unbreakable_constructs_mod.uc_barrel": "UC Barrel",
+      "block.unbreakable_constructs_mod.uc_mycelium": "UC Mycelium",
+      "block.unbreakable_constructs_mod.uc_nether_quartz_ore": "UC Nether Quartz Ore",
+      "block.unbreakable_constructs_mod.uc_magenta_concrete_powder": "UC Magenta Concrete Powder",
+      "block.unbreakable_constructs_mod.uc_magenta_shulker_box": "UC Magenta Shulker Box",
+      "block.unbreakable_constructs_mod.uc_red_wool": "UC Red Wool",
+      "block.unbreakable_constructs_mod.uc_blue_ice": "UC Blue Ice",
+      "block.unbreakable_constructs_mod.uc_tube_coral_block": "UC Tube Coral Block",
+      "block.unbreakable_constructs_mod.uc_light_gray_stained_glass_pane": "UC Light Gray Stained Glass Pane",
+      "block.unbreakable_constructs_mod.uc_chiseled_stone_bricks": "UC Chiseled Stone Bricks",
+      "block.unbreakable_constructs_mod.uc_blue_wool": "UC Blue Wool",
+      "block.unbreakable_constructs_mod.uc_smooth_sandstone_slab": "UC Smooth Sandstone Slab",
+      "block.unbreakable_constructs_mod.uc_breakable_pink_shulker_box": "UC Breakable Pink Shulker Box",
+      "block.unbreakable_constructs_mod.uc_light_gray_concrete_powder": "UC Light Gray Concrete Powder",
+      "block.unbreakable_constructs_mod.uc_yellow_shulker_box": "UC Yellow Shulker Box",
+      "block.unbreakable_constructs_mod.uc_smooth_quartz_stairs": "UC Smooth Quartz Stairs",
+      "block.unbreakable_constructs_mod.uc_breakable_jukebox": "UC Breakable Jukebox",
+      "block.unbreakable_constructs_mod.uc_orange_wool": "UC Orange Wool",
+      "block.unbreakable_constructs_mod.uc_breakable_white_shulker_box": "UC Breakable White Shulker Box",
+      "block.unbreakable_constructs_mod.uc_gray_shulker_box": "UC Gray Shulker Box",
+      "block.unbreakable_constructs_mod.uc_stone_button": "UC Stone Button",
+      "block.unbreakable_constructs_mod.uc_breakable_gray_shulker_box": "UC Breakable Gray Shulker Box",
+      "block.unbreakable_constructs_mod.uc_blue_concrete": "UC Blue Concrete",
+      "block.unbreakable_constructs_mod.uc_lit_blast_furnace": "UC Lit Blast Furnace",
+      "block.unbreakable_constructs_mod.uc_brown_glazed_terracotta": "UC Brown Glazed Terracotta",
+      "block.unbreakable_constructs_mod.uc_oak_planks": "UC Oak Planks",
+      "block.unbreakable_constructs_mod.uc_yellow_concrete": "UC Yellow Concrete",
+      "block.unbreakable_constructs_mod.uc_blue_concrete_powder": "UC Blue Concrete Powder",
+      "block.unbreakable_constructs_mod.uc_crimson_fence": "UC Crimson Fence",
+      "block.unbreakable_constructs_mod.uc_black_shulker_box": "UC Black Shulker Box",
+      "block.unbreakable_constructs_mod.uc_blackstone_stairs": "UC Blackstone Stairs",
+      "block.unbreakable_constructs_mod.uc_birch_planks": "UC Birch Planks",
+      "block.unbreakable_constructs_mod.uc_diorite_slab": "UC Diorite Slab",
+      "block.unbreakable_constructs_mod.uc_mossy_stone_brick_slab": "UC Mossy Stone Brick Slab",
+      "block.unbreakable_constructs_mod.uc_polished_blackstone_bricks": "UC Polished Blackstone Bricks",
+      "block.unbreakable_constructs_mod.uc_structure_block_corner": "UC Structure Block Corner",
+      "block.unbreakable_constructs_mod.uc_brown_shulker_box": "UC Brown Shulker Box",
+      "block.unbreakable_constructs_mod.uc_breakable_purple_shulker_box": "UC Breakable Purple Shulker Box",
+      "block.unbreakable_constructs_mod.uc_breakable_smoker": "UC Breakable Smoker",
+      "block.unbreakable_constructs_mod.uc_breakable_green_shulker_box": "UC Breakable Green Shulker Box",
+      "block.unbreakable_constructs_mod.uc_cyan_shulker_box": "UC Cyan Shulker Box",
+      "block.unbreakable_constructs_mod.uc_furnace": "UC Furnace",
+      "block.unbreakable_constructs_mod.uc_red_stained_glass_pane": "UC Red Stained Glass Pane",
+      "block.unbreakable_constructs_mod.uc_granite": "UC Granite",
+      "block.unbreakable_constructs_mod.uc_lit_redstone_lamp": "UC Lit Redstone Lamp",
+      "block.unbreakable_constructs_mod.uc_smithing_table": "UC Smithing Table",
+      "block.unbreakable_constructs_mod.uc_dark_oak_log": "UC Dark Oak Log",
+      "block.unbreakable_constructs_mod.uc_mossy_cobblestone_stairs": "UC Mossy Cobblestone Stairs",
+      "block.unbreakable_constructs_mod.uc_smoker": "UC Smoker",
+      "block.unbreakable_constructs_mod.uc_warped_button": "UC Warped Button",
+      "block.unbreakable_constructs_mod.uc_andesite_stairs": "UC Andesite Stairs",
+      "block.unbreakable_constructs_mod.uc_black_concrete_powder": "UC Black Concrete Powder",
+      "block.unbreakable_constructs_mod.uc_yellow_stained_glass": "UC Yellow Stained Glass",
+      "block.unbreakable_constructs_mod.uc_cut_red_sandstone": "UC Cut Red Sandstone",
+      "block.unbreakable_constructs_mod.uc_jungle_log": "UC Jungle Log",
+      "block.unbreakable_constructs_mod.uc_carved_pumpkin": "UC Carved Pumpkin",
+      "block.unbreakable_constructs_mod.uc_white_glazed_terracotta": "UC White Glazed Terracotta",
+      "block.unbreakable_constructs_mod.uc_yellow_glazed_terracotta": "UC Yellow Glazed Terracotta",
+      "block.unbreakable_constructs_mod.uc_sandstone_wall": "UC Sandstone Wall",
+      "block.unbreakable_constructs_mod.uc_blue_stained_glass": "UC Blue Stained Glass",
+      "block.unbreakable_constructs_mod.uc_granite_stairs": "UC Granite Stairs",
+      "block.unbreakable_constructs_mod.uc_blue_shulker_box": "UC Blue Shulker Box",
+      "block.unbreakable_constructs_mod.uc_gray_wool": "UC Gray Wool",
+      "block.unbreakable_constructs_mod.uc_cracked_polished_blackstone_bricks": "UC Cracked Polished Blackstone Bricks",
+      "block.unbreakable_constructs_mod.uc_repeating_command_block": "UC Repeating Command Block",
+      "block.unbreakable_constructs_mod.uc_blockof_iron": "UC Block of Iron",
+      "block.unbreakable_constructs_mod.uc_birch_pressure_plate": "UC Birch Pressure Plate",
+      "block.unbreakable_constructs_mod.uc_cobblestone": "UC Cobblestone",
+      "block.unbreakable_constructs_mod.uc_polished_blackstone_brick_slab": "UC Polished Blackstone Brick Slab",
+      "block.unbreakable_constructs_mod.uc_purple_concrete": "UC Purple Concrete",
+      "block.unbreakable_constructs_mod.uc_light_blue_wool": "UC Light Blue Wool",
+      "block.unbreakable_constructs_mod.uc_acacia_leaves": "UC Acacia Leaves",
+      "block.unbreakable_constructs_mod.uc_redstone_ore": "UC Redstone Ore",
+      "block.unbreakable_constructs_mod.uc_obsidian": "UC Obsidian",
+      "block.unbreakable_constructs_mod.uc_white_stained_glass": "UC White Stained Glass",
+      "block.unbreakable_constructs_mod.uc_dried_kelp_block": "UC Dried Kelp Block",
+      "block.unbreakable_constructs_mod.uc_dispenser_vertical": "UC Dispenser Vertical",
+      "block.unbreakable_constructs_mod.uc_bee_hive_honey": "UC Bee Hive Honey",
+      "block.unbreakable_constructs_mod.uc_cyan_concrete_powder": "UC Cyan Concrete Powder",
+      "block.unbreakable_constructs_mod.uc_birch_log": "UC Birch Log",
+      "block.unbreakable_constructs_mod.uc_smooth_sandstone_stairs": "UC Smooth Sandstone Stairs",
+      "block.unbreakable_constructs_mod.uc_sandstone_stairs": "UC Sandstone Stairs",
+      "block.unbreakable_constructs_mod.uc_prismarine_brick_stairs": "UC Prismarine Brick Stairs",
+      "block.unbreakable_constructs_mod.uc_polished_blackstone_pressure_plate": "UC Polished Blackstone Pressure Plate",
+      "block.unbreakable_constructs_mod.uc_orange_concrete": "UC Orange Concrete",
+      "block.unbreakable_constructs_mod.uc_cyan_glazed_terracotta": "UC Cyan Glazed Terracotta",
+      "block.unbreakable_constructs_mod.uc_dark_prismarine": "UC Dark Prismarine",
+      "block.unbreakable_constructs_mod.uc_end_stone": "UC End Stone",
+      "block.unbreakable_constructs_mod.uc_magenta_wool": "UC Magenta Wool",
+      "block.unbreakable_constructs_mod.uc_block_of_coal": "UC Block Of Coal",
+      "block.unbreakable_constructs_mod.uc_light_blue_terracotta": "UC Light Blue Terracotta",
+      "block.unbreakable_constructs_mod.uc_block_of_quartz": "UC Block Of Quartz",
+      "block.unbreakable_constructs_mod.uc_brain_coral_block": "UC Brain Coral Block",
+      "block.unbreakable_constructs_mod.uc_warped_door": "UC Warped Door",
+      "block.unbreakable_constructs_mod.uc_end_stone_brick_wall": "UC End Stone Brick Wall",
+      "block.unbreakable_constructs_mod.uc_purple_terracotta": "UC Purple Terracotta",
+      "block.unbreakable_constructs_mod.uc_nether_wart_block": "UC Nether Wart Block",
+      "block.unbreakable_constructs_mod.uc_cobblestone_slab": "UC Cobblestone Slab",
+      "block.unbreakable_constructs_mod.uc_spruce_planks": "UC Spruce Planks"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "unbreakable_constructs_mod",
+    "modName": "Unbreakable Constructs Mod",
+    "version": "1.0.0",
+    "author": "user, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.unbreakableconstructsmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}

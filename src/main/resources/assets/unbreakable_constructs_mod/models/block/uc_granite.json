@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/granite",
+    "up": "unbreakable_constructs_mod:blocks/granite",
+    "north": "unbreakable_constructs_mod:blocks/granite",
+    "east": "unbreakable_constructs_mod:blocks/granite",
+    "south": "unbreakable_constructs_mod:blocks/granite",
+    "west": "unbreakable_constructs_mod:blocks/granite",
+    "particle": "unbreakable_constructs_mod:blocks/granite"
+  }
+}

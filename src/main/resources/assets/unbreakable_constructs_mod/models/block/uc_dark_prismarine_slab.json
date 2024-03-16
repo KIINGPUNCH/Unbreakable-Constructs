@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "unbreakable_constructs_mod:blocks/dark_prismarine",
+    "top": "unbreakable_constructs_mod:blocks/dark_prismarine",
+    "side": "unbreakable_constructs_mod:blocks/dark_prismarine"
+  }
+}

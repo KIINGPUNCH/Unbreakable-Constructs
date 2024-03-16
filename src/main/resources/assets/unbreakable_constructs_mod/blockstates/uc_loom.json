@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "unbreakable_constructs_mod:block/uc_loom"
+    },
+    "facing=east": {
+      "model": "unbreakable_constructs_mod:block/uc_loom",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "unbreakable_constructs_mod:block/uc_loom",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "unbreakable_constructs_mod:block/uc_loom",
+      "y": 270
+    }
+  }
+}

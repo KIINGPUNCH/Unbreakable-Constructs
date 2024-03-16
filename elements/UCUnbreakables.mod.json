@@ -1,0 +1,11 @@
+{
+  "_fv": 33,
+  "_type": "tab",
+  "definition": {
+    "name": "UC Unbreakables",
+    "icon": {
+      "value": "Blocks.BEDROCK"
+    },
+    "showSearch": true
+  }
+}

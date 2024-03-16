@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "unbreakable_constructs_mod:blocks/polished_andesite",
+    "top": "unbreakable_constructs_mod:blocks/polished_andesite",
+    "side": "unbreakable_constructs_mod:blocks/polished_andesite"
+  }
+}

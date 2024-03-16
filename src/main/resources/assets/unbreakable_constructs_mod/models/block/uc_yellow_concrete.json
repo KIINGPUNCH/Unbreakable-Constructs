@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/yellow_concrete",
+    "up": "unbreakable_constructs_mod:blocks/yellow_concrete",
+    "north": "unbreakable_constructs_mod:blocks/yellow_concrete",
+    "east": "unbreakable_constructs_mod:blocks/yellow_concrete",
+    "south": "unbreakable_constructs_mod:blocks/yellow_concrete",
+    "west": "unbreakable_constructs_mod:blocks/yellow_concrete",
+    "particle": "unbreakable_constructs_mod:blocks/yellow_concrete"
+  }
+}

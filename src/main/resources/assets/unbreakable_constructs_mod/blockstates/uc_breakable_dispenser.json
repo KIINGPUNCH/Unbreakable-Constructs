@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "unbreakable_constructs_mod:block/uc_breakable_dispenser"
+    },
+    "facing=east": {
+      "model": "unbreakable_constructs_mod:block/uc_breakable_dispenser",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "unbreakable_constructs_mod:block/uc_breakable_dispenser",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "unbreakable_constructs_mod:block/uc_breakable_dispenser",
+      "y": 270
+    }
+  }
+}

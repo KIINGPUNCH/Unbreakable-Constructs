@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/polished_andesite",
+    "up": "unbreakable_constructs_mod:blocks/polished_andesite",
+    "north": "unbreakable_constructs_mod:blocks/polished_andesite",
+    "east": "unbreakable_constructs_mod:blocks/polished_andesite",
+    "south": "unbreakable_constructs_mod:blocks/polished_andesite",
+    "west": "unbreakable_constructs_mod:blocks/polished_andesite",
+    "particle": "unbreakable_constructs_mod:blocks/polished_andesite"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/redstone_lamp",
+    "up": "unbreakable_constructs_mod:blocks/redstone_lamp",
+    "north": "unbreakable_constructs_mod:blocks/redstone_lamp",
+    "east": "unbreakable_constructs_mod:blocks/redstone_lamp",
+    "south": "unbreakable_constructs_mod:blocks/redstone_lamp",
+    "west": "unbreakable_constructs_mod:blocks/redstone_lamp",
+    "particle": "unbreakable_constructs_mod:blocks/redstone_lamp"
+  }
+}

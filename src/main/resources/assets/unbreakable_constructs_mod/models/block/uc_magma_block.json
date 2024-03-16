@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/magma",
+    "up": "unbreakable_constructs_mod:blocks/magma",
+    "north": "unbreakable_constructs_mod:blocks/magma",
+    "east": "unbreakable_constructs_mod:blocks/magma",
+    "south": "unbreakable_constructs_mod:blocks/magma",
+    "west": "unbreakable_constructs_mod:blocks/magma",
+    "particle": "unbreakable_constructs_mod:blocks/magma"
+  }
+}

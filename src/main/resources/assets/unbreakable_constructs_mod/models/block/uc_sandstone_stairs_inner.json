@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "unbreakable_constructs_mod:blocks/sandstone_bottom",
+    "top": "unbreakable_constructs_mod:blocks/sandstone_top",
+    "side": "unbreakable_constructs_mod:blocks/sandstone"
+  }
+}

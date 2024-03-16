@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "unbreakable_constructs_mod:block/uc_sticky_piston",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "unbreakable_constructs_mod:block/uc_sticky_piston"
+    },
+    "axis=z": {
+      "model": "unbreakable_constructs_mod:block/uc_sticky_piston",
+      "x": 90
+    }
+  }
+}

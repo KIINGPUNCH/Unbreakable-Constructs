@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/soul_soil",
+    "up": "unbreakable_constructs_mod:blocks/soul_soil",
+    "north": "unbreakable_constructs_mod:blocks/soul_soil",
+    "east": "unbreakable_constructs_mod:blocks/soul_soil",
+    "south": "unbreakable_constructs_mod:blocks/soul_soil",
+    "west": "unbreakable_constructs_mod:blocks/soul_soil",
+    "particle": "unbreakable_constructs_mod:blocks/soul_soil"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/green_concrete",
+    "up": "unbreakable_constructs_mod:blocks/green_concrete",
+    "north": "unbreakable_constructs_mod:blocks/green_concrete",
+    "east": "unbreakable_constructs_mod:blocks/green_concrete",
+    "south": "unbreakable_constructs_mod:blocks/green_concrete",
+    "west": "unbreakable_constructs_mod:blocks/green_concrete",
+    "particle": "unbreakable_constructs_mod:blocks/green_concrete"
+  }
+}

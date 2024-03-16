@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/coarse_dirt",
+    "up": "unbreakable_constructs_mod:blocks/coarse_dirt",
+    "north": "unbreakable_constructs_mod:blocks/coarse_dirt",
+    "east": "unbreakable_constructs_mod:blocks/coarse_dirt",
+    "south": "unbreakable_constructs_mod:blocks/coarse_dirt",
+    "west": "unbreakable_constructs_mod:blocks/coarse_dirt",
+    "particle": "unbreakable_constructs_mod:blocks/coarse_dirt"
+  }
+}

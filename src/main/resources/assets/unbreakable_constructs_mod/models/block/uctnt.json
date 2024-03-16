@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/tnt_bottom",
+    "up": "unbreakable_constructs_mod:blocks/tnt_top",
+    "north": "unbreakable_constructs_mod:blocks/tnt_side",
+    "east": "unbreakable_constructs_mod:blocks/tnt_side",
+    "south": "unbreakable_constructs_mod:blocks/tnt_side",
+    "west": "unbreakable_constructs_mod:blocks/tnt_side",
+    "particle": "unbreakable_constructs_mod:blocks/tnt_bottom"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/blast_furnace_top",
+    "up": "unbreakable_constructs_mod:blocks/blast_furnace_top",
+    "north": "unbreakable_constructs_mod:blocks/blast_furnace_front_on",
+    "east": "unbreakable_constructs_mod:blocks/blast_furnace_side",
+    "south": "unbreakable_constructs_mod:blocks/blast_furnace_side",
+    "west": "unbreakable_constructs_mod:blocks/blast_furnace_side",
+    "particle": "unbreakable_constructs_mod:blocks/blast_furnace_top"
+  }
+}

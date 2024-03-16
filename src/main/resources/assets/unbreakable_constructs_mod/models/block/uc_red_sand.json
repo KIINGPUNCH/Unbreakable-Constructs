@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/red_sand",
+    "up": "unbreakable_constructs_mod:blocks/red_sand",
+    "north": "unbreakable_constructs_mod:blocks/red_sand",
+    "east": "unbreakable_constructs_mod:blocks/red_sand",
+    "south": "unbreakable_constructs_mod:blocks/red_sand",
+    "west": "unbreakable_constructs_mod:blocks/red_sand",
+    "particle": "unbreakable_constructs_mod:blocks/red_sand"
+  }
+}

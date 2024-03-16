@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/netherrack",
+    "up": "unbreakable_constructs_mod:blocks/netherrack",
+    "north": "unbreakable_constructs_mod:blocks/netherrack",
+    "east": "unbreakable_constructs_mod:blocks/netherrack",
+    "south": "unbreakable_constructs_mod:blocks/netherrack",
+    "west": "unbreakable_constructs_mod:blocks/netherrack",
+    "particle": "unbreakable_constructs_mod:blocks/netherrack"
+  }
+}

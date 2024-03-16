@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/piston_bottom",
+    "up": "unbreakable_constructs_mod:blocks/piston_top",
+    "north": "unbreakable_constructs_mod:blocks/piston_side",
+    "east": "unbreakable_constructs_mod:blocks/piston_side",
+    "south": "unbreakable_constructs_mod:blocks/piston_side",
+    "west": "unbreakable_constructs_mod:blocks/piston_side",
+    "particle": "unbreakable_constructs_mod:blocks/piston_bottom"
+  }
+}

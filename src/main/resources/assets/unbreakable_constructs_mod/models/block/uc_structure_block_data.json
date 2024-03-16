@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/structure_block_data",
+    "up": "unbreakable_constructs_mod:blocks/structure_block_data",
+    "north": "unbreakable_constructs_mod:blocks/structure_block_data",
+    "east": "unbreakable_constructs_mod:blocks/structure_block_data",
+    "south": "unbreakable_constructs_mod:blocks/structure_block_data",
+    "west": "unbreakable_constructs_mod:blocks/structure_block_data",
+    "particle": "unbreakable_constructs_mod:blocks/structure_block_data"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/mossy_cobblestone",
+    "up": "unbreakable_constructs_mod:blocks/mossy_cobblestone",
+    "north": "unbreakable_constructs_mod:blocks/mossy_cobblestone",
+    "east": "unbreakable_constructs_mod:blocks/mossy_cobblestone",
+    "south": "unbreakable_constructs_mod:blocks/mossy_cobblestone",
+    "west": "unbreakable_constructs_mod:blocks/mossy_cobblestone",
+    "particle": "unbreakable_constructs_mod:blocks/mossy_cobblestone"
+  }
+}

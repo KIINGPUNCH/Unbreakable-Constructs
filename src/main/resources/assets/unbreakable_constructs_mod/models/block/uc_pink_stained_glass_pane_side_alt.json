@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "textures": {
+    "edge": "unbreakable_constructs_mod:blocks/pink_stained_glass",
+    "pane": "unbreakable_constructs_mod:blocks/pink_stained_glass"
+  }
+}

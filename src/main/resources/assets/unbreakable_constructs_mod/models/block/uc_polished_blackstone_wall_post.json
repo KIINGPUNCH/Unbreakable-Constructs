@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "unbreakable_constructs_mod:blocks/polished_blackstone",
+    "particle": "unbreakable_constructs_mod:blocks/polished_blackstone"
+  }
+}

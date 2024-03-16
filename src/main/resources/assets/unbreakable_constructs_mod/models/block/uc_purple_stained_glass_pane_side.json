@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "edge": "unbreakable_constructs_mod:blocks/purple_stained_glass",
+    "pane": "unbreakable_constructs_mod:blocks/purple_stained_glass"
+  }
+}

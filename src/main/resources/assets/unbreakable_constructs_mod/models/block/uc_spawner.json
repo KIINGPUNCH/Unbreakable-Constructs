@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/spawner",
+    "up": "unbreakable_constructs_mod:blocks/spawner",
+    "north": "unbreakable_constructs_mod:blocks/spawner",
+    "east": "unbreakable_constructs_mod:blocks/spawner",
+    "south": "unbreakable_constructs_mod:blocks/spawner",
+    "west": "unbreakable_constructs_mod:blocks/spawner",
+    "particle": "unbreakable_constructs_mod:blocks/spawner"
+  }
+}

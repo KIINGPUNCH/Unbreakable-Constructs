@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/diamond_ore",
+    "up": "unbreakable_constructs_mod:blocks/diamond_ore",
+    "north": "unbreakable_constructs_mod:blocks/diamond_ore",
+    "east": "unbreakable_constructs_mod:blocks/diamond_ore",
+    "south": "unbreakable_constructs_mod:blocks/diamond_ore",
+    "west": "unbreakable_constructs_mod:blocks/diamond_ore",
+    "particle": "unbreakable_constructs_mod:blocks/diamond_ore"
+  }
+}

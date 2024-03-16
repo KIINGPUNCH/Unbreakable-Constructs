@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/sandstone_bottom",
+    "up": "unbreakable_constructs_mod:blocks/sandstone_top",
+    "north": "unbreakable_constructs_mod:blocks/cut_sandstone",
+    "east": "unbreakable_constructs_mod:blocks/cut_sandstone",
+    "south": "unbreakable_constructs_mod:blocks/cut_sandstone",
+    "west": "unbreakable_constructs_mod:blocks/cut_sandstone",
+    "particle": "unbreakable_constructs_mod:blocks/sandstone_bottom"
+  }
+}

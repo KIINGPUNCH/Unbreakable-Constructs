@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "unbreakable_constructs_mod:blocks/jungle_planks",
+    "top": "unbreakable_constructs_mod:blocks/jungle_planks",
+    "side": "unbreakable_constructs_mod:blocks/jungle_planks"
+  }
+}

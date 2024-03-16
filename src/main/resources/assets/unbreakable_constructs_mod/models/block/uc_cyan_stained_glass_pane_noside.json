@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_glass_pane_noside",
+  "textures": {
+    "pane": "unbreakable_constructs_mod:blocks/cyan_stained_glass"
+  }
+}

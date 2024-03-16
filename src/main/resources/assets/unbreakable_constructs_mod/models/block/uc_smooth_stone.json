@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/smooth_stone",
+    "up": "unbreakable_constructs_mod:blocks/smooth_stone",
+    "north": "unbreakable_constructs_mod:blocks/smooth_stone",
+    "east": "unbreakable_constructs_mod:blocks/smooth_stone",
+    "south": "unbreakable_constructs_mod:blocks/smooth_stone",
+    "west": "unbreakable_constructs_mod:blocks/smooth_stone",
+    "particle": "unbreakable_constructs_mod:blocks/smooth_stone"
+  }
+}

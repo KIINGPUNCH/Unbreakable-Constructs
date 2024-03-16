@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top",
+  "textures": {
+    "bottom": "unbreakable_constructs_mod:blocks/oak_door_bottom",
+    "top": "unbreakable_constructs_mod:blocks/oak_door_top"
+  }
+}

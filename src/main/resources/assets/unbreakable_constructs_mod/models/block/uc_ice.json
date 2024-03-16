@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/ice",
+    "up": "unbreakable_constructs_mod:blocks/ice",
+    "north": "unbreakable_constructs_mod:blocks/ice",
+    "east": "unbreakable_constructs_mod:blocks/ice",
+    "south": "unbreakable_constructs_mod:blocks/ice",
+    "west": "unbreakable_constructs_mod:blocks/ice",
+    "particle": "unbreakable_constructs_mod:blocks/ice"
+  }
+}

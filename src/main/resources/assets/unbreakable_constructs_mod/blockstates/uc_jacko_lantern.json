@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "unbreakable_constructs_mod:block/uc_jacko_lantern"
+    },
+    "facing=east": {
+      "model": "unbreakable_constructs_mod:block/uc_jacko_lantern",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "unbreakable_constructs_mod:block/uc_jacko_lantern",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "unbreakable_constructs_mod:block/uc_jacko_lantern",
+      "y": 270
+    }
+  }
+}

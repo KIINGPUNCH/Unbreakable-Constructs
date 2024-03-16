@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "unbreakable_constructs_mod:blocks/crimson_planks",
+    "particle": "unbreakable_constructs_mod:blocks/crimson_planks"
+  }
+}

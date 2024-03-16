@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "unbreakable_constructs_mod:block/uc_chain_command_block_conditional",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "unbreakable_constructs_mod:block/uc_chain_command_block_conditional"
+    },
+    "axis=z": {
+      "model": "unbreakable_constructs_mod:block/uc_chain_command_block_conditional",
+      "x": 90
+    }
+  }
+}

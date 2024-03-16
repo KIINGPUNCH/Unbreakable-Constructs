@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/cobblestone",
+    "up": "unbreakable_constructs_mod:blocks/cobblestone",
+    "north": "unbreakable_constructs_mod:blocks/cobblestone",
+    "east": "unbreakable_constructs_mod:blocks/cobblestone",
+    "south": "unbreakable_constructs_mod:blocks/cobblestone",
+    "west": "unbreakable_constructs_mod:blocks/cobblestone",
+    "particle": "unbreakable_constructs_mod:blocks/cobblestone"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/beehive_end",
+    "up": "unbreakable_constructs_mod:blocks/beehive_end",
+    "north": "unbreakable_constructs_mod:blocks/beehive_front",
+    "east": "unbreakable_constructs_mod:blocks/beehive_side",
+    "south": "unbreakable_constructs_mod:blocks/beehive_side",
+    "west": "unbreakable_constructs_mod:blocks/beehive_side",
+    "particle": "unbreakable_constructs_mod:blocks/beehive_end"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/sea_lantern",
+    "up": "unbreakable_constructs_mod:blocks/sea_lantern",
+    "north": "unbreakable_constructs_mod:blocks/sea_lantern",
+    "east": "unbreakable_constructs_mod:blocks/sea_lantern",
+    "south": "unbreakable_constructs_mod:blocks/sea_lantern",
+    "west": "unbreakable_constructs_mod:blocks/sea_lantern",
+    "particle": "unbreakable_constructs_mod:blocks/sea_lantern"
+  }
+}

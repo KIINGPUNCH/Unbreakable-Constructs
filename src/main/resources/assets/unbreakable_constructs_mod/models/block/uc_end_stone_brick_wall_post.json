@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "unbreakable_constructs_mod:blocks/end_stone_bricks",
+    "particle": "unbreakable_constructs_mod:blocks/end_stone_bricks"
+  }
+}

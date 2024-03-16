@@ -1,0 +1,10 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "unbreakable_constructs_mod:blocks/dirt",
+    "top": "unbreakable_constructs_mod:blocks/podzol_top",
+    "side": "unbreakable_constructs_mod:blocks/podzol_side",
+    "overlay": "unbreakable_constructs_mod:blocks/podzol_side",
+    "particle": "unbreakable_constructs_mod:blocks/dirt"
+  }
+}

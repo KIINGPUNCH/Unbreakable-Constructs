@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/shroomlight",
+    "up": "unbreakable_constructs_mod:blocks/shroomlight",
+    "north": "unbreakable_constructs_mod:blocks/shroomlight",
+    "east": "unbreakable_constructs_mod:blocks/shroomlight",
+    "south": "unbreakable_constructs_mod:blocks/shroomlight",
+    "west": "unbreakable_constructs_mod:blocks/shroomlight",
+    "particle": "unbreakable_constructs_mod:blocks/shroomlight"
+  }
+}

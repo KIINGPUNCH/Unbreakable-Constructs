@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "unbreakable_constructs_mod:blocks/purpur_pillar",
+    "up": "unbreakable_constructs_mod:blocks/purpur_pillar",
+    "north": "unbreakable_constructs_mod:blocks/purpur_pillar",
+    "east": "unbreakable_constructs_mod:blocks/purpur_pillar",
+    "south": "unbreakable_constructs_mod:blocks/purpur_pillar",
+    "west": "unbreakable_constructs_mod:blocks/purpur_pillar",
+    "particle": "unbreakable_constructs_mod:blocks/purpur_pillar"
+  }
+}
